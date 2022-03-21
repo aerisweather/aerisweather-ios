@@ -10,11 +10,15 @@ let package = Package(
         .library(name: "AerisWeatherKit", targets: ["AerisWeatherKit"]),
         .library(name: "AerisMapKit", targets: ["AerisMapKit"])
     ],
-    dependencies: [
-        .package(name: "AerisCore", path: "lib/AerisCore.xcframework"),
-        .package(name: "AerisCoreUI", path: "lib/AerisCoreUI.xcframework")
-    ],
     targets: [
+        .binaryTarget(
+            name: "AerisCore",
+            path: "lib/AerisCore.xcframework"
+        ),
+        .binaryTarget(
+            name: "AerisCoreUI",
+            path: "lib/AerisCoreUI.xcframework"
+        ),
         .binaryTarget(
             name: "AerisWeatherKit",
             path: "lib/AerisWeatherKit.xcframework"
