@@ -7,10 +7,10 @@ let package = Package(
     defaultLocalization: "en",
     platforms: [.iOS(.v10)],
     products: [
-        .library(name: "AerisCore", type: .dynamic, targets: ["AerisCore"]),
-        .library(name: "AerisCoreUI", type: .dynamic, targets: ["AerisCoreUI"]),
-        .library(name: "AerisWeatherKit", type: .dynamic, targets: ["AerisWeatherKit"]),
-        .library(name: "AerisMapKit", type: .dynamic, targets: ["AerisMapKit"])
+        .library(name: "AerisCore", targets: ["AerisCore"]),
+        .library(name: "AerisCoreUI", targets: ["AerisCoreUI"]),
+        .library(name: "AerisWeatherKit", targets: ["AerisWeatherKit"]),
+        .library(name: "AerisMapKit", targets: ["AerisMapKit"])
     ],
     targets: [
         .binaryTarget(
