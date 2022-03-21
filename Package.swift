@@ -7,6 +7,8 @@ let package = Package(
     defaultLocalization: "en",
     platforms: [.iOS(.v10)],
     products: [
+        .library(name: "AerisCore", targets: ["AerisCore"]),
+        .library(name: "AerisCoreUI", targets: ["AerisCoreUI"]),
         .library(name: "AerisWeatherKit", targets: ["AerisWeatherKit"]),
         .library(name: "AerisMapKit", targets: ["AerisMapKit"])
     ],
