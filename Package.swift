@@ -3,9 +3,12 @@
 import PackageDescription
 
 let package = Package(
-    name: "AerisWeatherKit",
+    name: "AerisWeather",
     defaultLocalization: "en",
-    platforms: [.iOS(.v10)],
+    platforms: [
+        .iOS(.v10),
+        .tvOS(.v10)
+    ],
     products: [
         .library(name: "AerisCore", targets: ["AerisCore"]),
         .library(name: "AerisCoreUI", targets: ["AerisCoreUI"]),
