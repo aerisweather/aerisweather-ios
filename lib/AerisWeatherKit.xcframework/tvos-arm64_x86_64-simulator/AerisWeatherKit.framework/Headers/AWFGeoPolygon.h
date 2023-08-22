@@ -149,6 +149,16 @@ typedef NSArray<NSNumber *> *AWFGeoPolygonCoordValue;
 - (BOOL)containsCoordinate:(CLLocationCoordinate2D)coord;
 
 /**
+ Returns an `AWFGeoPolygon` instance generated from the specified GeoJSON dictionary data.
+ 
+ Note that the provided GeoJSON data must follow the GeoJSON spec: http://geojson.org/geojson-spec.html#polygon
+
+ @param geoJSON The GeoJSON data to generate polygon instances from
+ @return An array of polygon instances based on the GeoJSON data
+ */
++ (nullable AWFGeoPolygon *)polygonFromGeoJSON:(NSDictionary *)geoJSON;
+
+/**
  Returns an array of `AWFGeoPolygon` instances generated from the specified GeoJSON dictionary data.
  
  Note that the provided GeoJSON data must follow the GeoJSON spec: http://geojson.org/geojson-spec.html#polygon

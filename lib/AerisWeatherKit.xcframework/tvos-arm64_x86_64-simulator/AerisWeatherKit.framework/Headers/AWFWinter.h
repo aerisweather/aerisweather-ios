@@ -6,6 +6,7 @@
 //  Copyright © 2016 Aeris Weather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <AerisWeatherKit/AWFWeatherEndpoint.h>
 #import <AerisWeatherKit/AWFSnowDepth.h>
 

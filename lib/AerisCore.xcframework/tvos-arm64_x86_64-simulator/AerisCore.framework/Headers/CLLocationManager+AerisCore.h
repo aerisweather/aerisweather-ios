@@ -6,6 +6,7 @@
 //  Copyright © 2015 AerisWeather. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <CoreLocation/CoreLocation.h>
 
 #if TARGET_OS_IOS

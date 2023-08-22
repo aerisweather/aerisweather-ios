@@ -6,6 +6,7 @@
 //  Copyright (c) 2015 AerisWeather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <AerisCore/AWFURLSessionManager.h>
 #import <AerisCore/AWFRequest.h>
 

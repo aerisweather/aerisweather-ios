@@ -6,6 +6,8 @@
 //  Copyright © 2017 AerisWeather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
+
 /**
  The supported map content types for a weather map.
 

@@ -37,7 +37,10 @@
 #import <AerisWeatherKit/AWFFireOutlooks.h>
 #import <AerisWeatherKit/AWFForecasts.h>
 #import <AerisWeatherKit/AWFIndices.h>
+#import <AerisWeatherKit/AWFLightningFlashes.h>
 #import <AerisWeatherKit/AWFLightningStrikes.h>
+#import <AerisWeatherKit/AWFLightningSummaries.h>
+#import <AerisWeatherKit/AWFLightningThreats.h>
 #import <AerisWeatherKit/AWFMoonPhases.h>
 #import <AerisWeatherKit/AWFNormals.h>
 #import <AerisWeatherKit/AWFObservations.h>
@@ -73,7 +76,10 @@
 #import <AerisWeatherKit/AWFForecast.h>
 #import <AerisWeatherKit/AWFIndexPeriod.h>
 #import <AerisWeatherKit/AWFIndex.h>
+#import <AerisWeatherKit/AWFLightningFlash.h>
 #import <AerisWeatherKit/AWFLightningStrike.h>
+#import <AerisWeatherKit/AWFLightningSummary.h>
+#import <AerisWeatherKit/AWFLightningThreat.h>
 #import <AerisWeatherKit/AWFMoonPhase.h>
 #import <AerisWeatherKit/AWFNormal.h>
 #import <AerisWeatherKit/AWFNormalStation.h>

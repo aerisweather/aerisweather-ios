@@ -330,10 +330,42 @@ FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerFiresObsIcons;
  */
 FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerFiresObsPoints;
 
+
+//-----------------------------------------------------------------------------
+// @name Lightning
+//-----------------------------------------------------------------------------
+
+/**
+ Aggregated cloud-to-ground and intracloud lightning flashes in the last 15 minutes.
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerLightningAll15Minute;
+
+/**
+ Aggregated cloud-to-ground and intracloud lightning flashes in the last 5 minutes.
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerLightningAll5Minute;
+
+/**
+ Aggregated cloud-to-ground and intracloud lightning flashes in the last 5 minutes.
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerLightningFlash;
+
+/**
+ Aggregated cloud-to-ground and intracloud lightning flashes in the last 5 minutes.
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerLightningFlash5MinuteIcons;
+
 /**
  Lightning strike density measured as the number of lightning strikes per square meter per second.
  */
 FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerLightningStrikeDensity;
+
+/**
+ Cloud-to-ground lightning strikes in the last 15 minutes.
+ 
+ Alias for `AWFMapLayerLightningStrikes15Minute`.
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerLightningStrikes;
 
 /**
  Cloud-to-ground lightning strikes in the last 15 minutes.
@@ -850,10 +882,11 @@ FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerAmpDroughtIndex;
 FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerAmpFireOutlook;
 
 /**
- Displays lightning strikes on a weather map using the raster AMP layer. Using this layer instead of `AWFMapLayerStormCells` does not allow interacting
- with the points as you would when selecting an annotation associated with the point layer.
+ Deprecated.  Use `AWFMapLayerLightningStrikes` instead.
+ 
+ Alias for `AWFMapLayerLightningStrikes`.
  */
-FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerAmpLightningStrikes;
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerAmpLightningStrikes DEPRECATED_MSG_ATTRIBUTE("Use `AWFMapLayerLightningStrikes` instead.");
 
 /**
  Displays storm cells on a weather map using the raster AMP layer. Using this layer instead of `AWFMapLayerStormCells` does not allow interacting with the

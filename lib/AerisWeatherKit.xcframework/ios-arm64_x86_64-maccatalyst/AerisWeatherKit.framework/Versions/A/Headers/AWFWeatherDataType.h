@@ -35,6 +35,10 @@
  - AWFWeatherDataTypeFeelsLike: Feels like data type
  - AWFWeatherDataTypeWindChill: Wind chill data type
  - AWFWeatherDataTypeHeatIndex: Heat index data type
+ - AWFWeatherDataTypeLightningPeakAmperage: Lightning peak amperage data type
+ - AWFWeatherDataTypeLightningPeakPositiveAmperage: Lightning peak positive polarity amperage data type
+ - AWFWeatherDataTypeLightningPeakNegativeAmperage: Lightning peak negative polarity amperage data type
+ - AWFWeatherDataTypeLightningSensorCount: Lightning sensor count data type
  */
 typedef NS_ENUM(NSUInteger, AWFWeatherDataType) {
 	AWFWeatherDataTypeNone = 0,
@@ -60,7 +64,11 @@ typedef NS_ENUM(NSUInteger, AWFWeatherDataType) {
 	AWFWeatherDataTypeSolarRadiation,
 	AWFWeatherDataTypeFeelsLike,
 	AWFWeatherDataTypeWindChill,
-	AWFWeatherDataTypeHeatIndex
+	AWFWeatherDataTypeHeatIndex,
+	AWFWeatherDataTypeLightningPeakAmperage,
+	AWFWeatherDataTypeLightningPeakPositiveAmperage,
+	AWFWeatherDataTypeLightningPeakNegativeAmperage,
+	AWFWeatherDataTypeLightningSensorCount,
 };
 
 /**

@@ -6,6 +6,7 @@
 //  Copyright (c) 2014 AerisWeather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <AerisMapKit/AWFPolyline.h>
 #import <AerisMapKit/AWFStyledMapItem.h>
 

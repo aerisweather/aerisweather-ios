@@ -6,6 +6,7 @@
 //  Copyright © 2018 AerisWeather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <AerisWeatherKit/AerisWeatherKit.h>
 #import <AerisMapKit/AWFMapLayer.h>
 

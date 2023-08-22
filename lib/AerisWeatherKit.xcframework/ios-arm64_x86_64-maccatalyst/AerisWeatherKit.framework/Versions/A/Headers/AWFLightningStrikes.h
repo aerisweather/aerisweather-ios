@@ -6,6 +6,7 @@
 //  Copyright (c) 2013 AerisWeather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <AerisWeatherKit/AWFWeatherEndpoint.h>
 #import <AerisWeatherKit/AWFLightningStrike.h>
 
@@ -16,10 +17,16 @@ typedef NSString * AWFLightningStrikeFilter NS_TYPED_EXTENSIBLE_ENUM;
 FOUNDATION_EXPORT AWFLightningStrikeFilter const AWFLightningStrikeFilterAll;
 FOUNDATION_EXPORT AWFLightningStrikeFilter const AWFLightningStrikeFilterCloudToGround;
 FOUNDATION_EXPORT AWFLightningStrikeFilter const AWFLightningStrikeFilterCloudToCloud;
+FOUNDATION_EXPORT AWFLightningStrikeFilter const AWFLightningStrikeFilterNegative;
+FOUNDATION_EXPORT AWFLightningStrikeFilter const AWFLightningStrikeFilterPositive;
+
 
 typedef NSString * AWFLightningStrikeField NS_TYPED_EXTENSIBLE_ENUM;
 
 FOUNDATION_EXPORT AWFLightningStrikeField const AWFLightningStrikeFieldDateTime;
+FOUNDATION_EXPORT AWFLightningStrikeField const AWFLightningStrikeFieldPulseType;
+FOUNDATION_EXPORT AWFLightningStrikeField const AWFLightningStrikeFieldPeakAmperage;
+FOUNDATION_EXPORT AWFLightningStrikeField const AWFLightningStrikeFieldSensorCount;
 
 /**
  `AWFLightningStrikes` provides convenience methods for interacting with the

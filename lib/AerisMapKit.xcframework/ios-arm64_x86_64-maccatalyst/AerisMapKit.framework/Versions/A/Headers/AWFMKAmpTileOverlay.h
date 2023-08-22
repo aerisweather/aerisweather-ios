@@ -6,6 +6,7 @@
 //  Copyright © 2019 AerisWeather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <AerisMapKit/AWFMKTileOverlay.h>
 
 NS_ASSUME_NONNULL_BEGIN

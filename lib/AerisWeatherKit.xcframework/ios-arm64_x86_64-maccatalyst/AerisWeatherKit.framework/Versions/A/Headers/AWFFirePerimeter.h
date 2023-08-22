@@ -6,12 +6,17 @@
 //  Copyright © 2021 AerisWeather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <AerisWeatherKit/AerisWeatherKit.h>
 #import <AerisWeatherKit/AWFWeatherObject.h>
 #import <AerisWeatherKit/AWFGeoPolygon.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
+/**
+ An `AWFFirePerimeter` object represents perimeter information for a fire as returned by the [**fires** endpoint](https://www.aerisweather.com/support/docs/api/reference/endpoints/fires/)
+ of the Aeris Weather API.
+ */
 @interface AWFFirePerimeter : AWFWeatherObject
 
 /**

@@ -6,6 +6,7 @@
 //  Copyright © 2021 AerisWeather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <AerisWeatherKit/AerisWeatherKit.h>
 #import <AerisWeatherKit/AWFWeatherObject.h>
 
@@ -13,6 +14,10 @@ NS_ASSUME_NONNULL_BEGIN
 
 @class AWFAdvisoryType;
 
+/**
+ An `AWFAdvisorySummary` object represents data returned by the [**alerts/summary** endpoint](https://www.aerisweather.com/support/docs/api/reference/endpoints/alerts/summary/)
+ of the Aeris Weather API.
+ */
 @interface AWFAdvisorySummary : AWFWeatherObject
 
 /**
@@ -42,6 +47,10 @@ NS_ASSUME_NONNULL_BEGIN
 
 @end
 
+/**
+ An `AWFAdvisoryType` object represents alert type information returned by the [**alerts/summary** endpoint](https://www.aerisweather.com/support/docs/api/reference/endpoints/alerts/summary/)
+ of the Aeris Weather API.
+ */
 @interface AWFAdvisoryType : AWFWeatherObject
 
 /**

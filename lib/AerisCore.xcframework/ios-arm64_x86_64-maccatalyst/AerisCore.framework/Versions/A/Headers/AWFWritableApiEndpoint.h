@@ -6,6 +6,7 @@
 //  Copyright © 2017 AerisWeather. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <AerisCore/AWFApiEndpoint.h>
 
 @interface AWFWritableApiEndpoint : AWFApiEndpoint

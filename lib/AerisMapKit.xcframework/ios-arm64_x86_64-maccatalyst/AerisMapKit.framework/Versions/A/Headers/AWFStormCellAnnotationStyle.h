@@ -6,6 +6,7 @@
 //  Copyright (c) 2014 AerisWeather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <AerisMapKit/AWFAnnotationStyle.h>
 #import <AerisMapKit/AWFGroupedStyle.h>
 #import <AerisMapKit/AWFDataRepresentableStyle.h>

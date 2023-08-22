@@ -110,6 +110,16 @@ extern AWFUnit const AWFUnitMilligramsPerCubicMeters;
  */
 extern AWFUnit const AWFUnitDbz;
 
+/**
+ Amps unit string
+ */
+extern AWFUnit const AWFUnitAmps;
+
+/**
+ Kilowamps unit string
+ */
+extern AWFUnit const AWFUnitKiloamps;
+
 
 /**
  Returns whether or not the specified `unit` corresponds to a Metric value.

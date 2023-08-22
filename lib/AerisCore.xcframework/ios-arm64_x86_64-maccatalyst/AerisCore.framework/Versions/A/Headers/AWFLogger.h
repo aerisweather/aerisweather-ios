@@ -6,6 +6,7 @@
 //  Copyright © 2015 AerisWeather. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
 #define AWF_LOG_MACRO(lvl, fnct, frmt, ...) [AWFLogger logLevel: lvl file: __FILE__ function: fnct line: __LINE__ format: (frmt), ## __VA_ARGS__]

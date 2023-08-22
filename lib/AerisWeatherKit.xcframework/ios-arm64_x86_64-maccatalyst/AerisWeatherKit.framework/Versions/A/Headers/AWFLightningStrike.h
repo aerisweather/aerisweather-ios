@@ -6,6 +6,7 @@
 //  Copyright (c) 2013 AerisWeather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <AerisWeatherKit/AWFGeographicObject.h>
 
 NS_ASSUME_NONNULL_BEGIN
@@ -27,9 +28,14 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy, nullable) NSString *pulseType;
 
 /**
- Peak electric current in amps.
+ Peak electric current in amps, or `NAN` if not available.
  */
 @property (nonatomic, assign) CGFloat peakAmperage;
+
+/**
+ The number of sensors that detected the lightning pulse, or `NSNotFound` if not available.
+ */
+@property (nonatomic, assign) NSInteger sensorCount;
 
 @end
 

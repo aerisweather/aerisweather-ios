@@ -27,11 +27,6 @@ FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerEarthquakes;
 FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerFires;
 
 /**
- Displays lightning strikes on a weather map.
- */
-FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerLightningStrikes;
-
-/**
  Displays climate records on a weather map.
  */
 FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerRecords;

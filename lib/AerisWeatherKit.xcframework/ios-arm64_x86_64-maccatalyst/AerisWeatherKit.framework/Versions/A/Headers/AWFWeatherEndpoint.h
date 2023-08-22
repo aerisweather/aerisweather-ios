@@ -6,6 +6,7 @@
 //  Copyright © 2017 Aeris Weather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <AerisCore/AerisCore.h>
 #import <AerisWeatherKit/AWFWeatherObject.h>
 #import <AerisWeatherKit/AWFCoordinateBounds.h>

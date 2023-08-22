@@ -10,6 +10,7 @@
 //  Licensed under the MIT license <http://opensource.org/licenses/MIT>
 //
 
+#import <Foundation/Foundation.h>
 #import <QuartzCore/QuartzCore.h>
 
 @interface AWFSpringAnimation : CAKeyframeAnimation

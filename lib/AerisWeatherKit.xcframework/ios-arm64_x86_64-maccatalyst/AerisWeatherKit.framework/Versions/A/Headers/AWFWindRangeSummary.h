@@ -6,6 +6,7 @@
 //  Copyright © 2020 AerisWeather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <AerisWeatherKit/AWFRangeSummary.h>
 
 NS_ASSUME_NONNULL_BEGIN

@@ -19,23 +19,23 @@
 		</dict>
 		<key>Headers/AWFActivities.h</key>
 		<data>
-		hwC2SPo2cXU4hLN3RHbPza0XpdA=
+		jOaEoZiR6qYjzFPok9IvHCquSio=
 		</data>
 		<key>Headers/AWFActivity.h</key>
 		<data>
-		LPKxViuBHCxwY8RyU9dH4xjnS8k=
+		AgzqsT2CbAV12hyDjo26Pk6rWUk=
 		</data>
 		<key>Headers/AWFAdvisories.h</key>
 		<data>
-		mDxaMolkcR0jf2E9lsaDpFJZSl4=
+		atVFQsXgdnETfVVM0PBhMGnxuw4=
 		</data>
 		<key>Headers/AWFAdvisory.h</key>
 		<data>
-		2rHebQKtsW89S/P1rQGwt7Ck+W8=
+		XEi0H6cfQdrY0tyNqwnVxOzbm5o=
 		</data>
 		<key>Headers/AWFAdvisorySummary.h</key>
 		<data>
-		c7QHJqyQ5cshCw42XVVlmqXfOjo=
+		2fxcMeEkwU2lQ85mKtaiNLx3oW8=
 		</data>
 		<key>Headers/AWFAerisAccount.h</key>
 		<data>
@@ -43,19 +43,19 @@
 		</data>
 		<key>Headers/AWFAirQuality.h</key>
 		<data>
-		y7JJ3c7awU3o/DFwpTqBdIp+K4A=
+		S44n5ZfiBUAO6r71lL1oqW9Exnc=
 		</data>
 		<key>Headers/AWFAirQualityReport.h</key>
 		<data>
-		8gUSP8rCtyzsfJxHIO2FQapqtMQ=
+		FDLr4Ud1u7VuoBt3f7lt59TXjYM=
 		</data>
 		<key>Headers/AWFAirport.h</key>
 		<data>
-		+aeExSM6Uh5/7+xB3Mt/q+vgRQ4=
+		F8DDabeo6sq7RuZ7KiV1BsLG5NE=
 		</data>
 		<key>Headers/AWFAirports.h</key>
 		<data>
-		PKU6q2oTQyYbRHBzNMukuyyhbiA=
+		P4T++eBuew9C1oN+wCWVoPsmKaw=
 		</data>
 		<key>Headers/AWFApiPermissions.h</key>
 		<data>
@@ -63,27 +63,27 @@
 		</data>
 		<key>Headers/AWFBatchRequest.h</key>
 		<data>
-		AGaDf93aI2oh/vx8ywFJoD2b8VU=
+		hrO4SedSwqxJIWJDQbxkUM/BsfI=
 		</data>
 		<key>Headers/AWFCondition.h</key>
 		<data>
-		ijJJfkS3akjkDG+aICyLROK8V7c=
+		W28FO0br0vYfF0bmztxAUbpmEQE=
 		</data>
 		<key>Headers/AWFConditionSummary.h</key>
 		<data>
-		4GVK1nWPM7GppGRmxyvIDsBC5Co=
+		Z0mtavg0cAG117t7OyCGT+8f3YQ=
 		</data>
 		<key>Headers/AWFConditions.h</key>
 		<data>
-		nXdQhdQ3PRu8zYseldKmsL+72Y8=
+		EjtpgKpbfvqZCkoY6Tz36sltPOg=
 		</data>
 		<key>Headers/AWFConvectiveOutlook.h</key>
 		<data>
-		9zG9RxLvDT4+nJq1/r/lOIOIHdw=
+		Oi/jP005o05UiUzrPD36GXuw1s4=
 		</data>
 		<key>Headers/AWFConvectiveOutlooks.h</key>
 		<data>
-		sGcT5myEq4ecVdGcE2r5mBpnwI4=
+		ics3RkNi2g35S130Wab+9eQObgw=
 		</data>
 		<key>Headers/AWFCoordinateBounds.h</key>
 		<data>
@@ -91,87 +91,111 @@
 		</data>
 		<key>Headers/AWFCountries.h</key>
 		<data>
-		w5nwbvNnGdVIqYFKJuYW6Q/cePg=
+		1rEiHo4NQDy/7qI6IRSFM3FJsxg=
 		</data>
 		<key>Headers/AWFCountry.h</key>
 		<data>
-		du4dxK/Ofb8X74y8QzULDZ43IpE=
+		muMlfusfjpQjHKCsfRo/ZmGRRMo=
 		</data>
 		<key>Headers/AWFDroughtIndex.h</key>
 		<data>
-		HpiPclaBYAxoypLd+kGcmJetu4o=
+		OzIkxA4FL9640v7rqOgDM+01H4Y=
 		</data>
 		<key>Headers/AWFDroughtIndices.h</key>
 		<data>
-		XOYhZdT7a8EQkSBZVALTI6Igoxw=
+		k0bydepMomFc8aHE0MgZsodCIZM=
 		</data>
 		<key>Headers/AWFEarthquake.h</key>
 		<data>
-		cRpz8sVUV7LEoej1GIXHTec6pxk=
+		9ZN9zbAN2MpXn6pocu/aFhunuFY=
 		</data>
 		<key>Headers/AWFEarthquakes.h</key>
 		<data>
-		MapA+h8xP4NCYs0sk//yJVAfykc=
+		Wfht5Coe1afnwomdOw6KNc+Adaw=
 		</data>
 		<key>Headers/AWFFire.h</key>
 		<data>
-		ADHyzKvFiJepIW8+gg+t4NN6eRw=
+		Jo2MYOK+60YzezDsCOC32GeCdM8=
 		</data>
 		<key>Headers/AWFFireOutlook.h</key>
 		<data>
-		seN4AJHSq3jpTr1HKJJ0YoKabag=
+		W8UJBBjdLhMCWQzrqxJYKhp1Se0=
 		</data>
 		<key>Headers/AWFFireOutlooks.h</key>
 		<data>
-		VIs4olbkz39jmkpd+J/24sAjjrs=
+		yeNTLfCNc88wuZ8eUVXjqRilabY=
 		</data>
 		<key>Headers/AWFFirePerimeter.h</key>
 		<data>
-		Ns2dBowQSRBJI59evB3HDDRwVI4=
+		HI04VX/0vuzYlduDlTzp/5z4A10=
 		</data>
 		<key>Headers/AWFFires.h</key>
 		<data>
-		xdGzzPnwdbaGcwOT+b/3Zxi/4DE=
+		wgOePl8V7jptpNouLhOGTLmfQl8=
 		</data>
 		<key>Headers/AWFForecast.h</key>
 		<data>
-		SBQZ9AWHvnAXiiGy0aGHrZWn9j0=
+		Rqi7Xhbu2g2ZnI4hdoaZoDWqF9I=
 		</data>
 		<key>Headers/AWFForecastModel.h</key>
 		<data>
-		o9Sq/02evDcMdaGs2G7UVz5jvmc=
+		wdEan7FVTRkLgu1AKFyVVAn6QRU=
 		</data>
 		<key>Headers/AWFForecasts.h</key>
 		<data>
-		tOnGfYFT6RG92/5/G6FI/iCjrE0=
+		MW+84KI9eJC8DYh9fVie1RZHx0E=
 		</data>
 		<key>Headers/AWFGeoPolygon.h</key>
 		<data>
-		x/zv1DPhHGVuSGJ+O0jjSr5Q8PA=
+		BAIEfrEr7fHGOSUMPivGszH0Frs=
 		</data>
 		<key>Headers/AWFGeographicObject.h</key>
 		<data>
-		JavIXCAEWlNGnLI6hhPu9vdLbW4=
+		PERT3vK7eNDv9xOvlmJ1hkdObMI=
 		</data>
 		<key>Headers/AWFIndex.h</key>
 		<data>
-		ow9ZUmCJacuU47N2wnuePInaP4U=
+		WDJ78NDcz0MdJ2VbhLhYpVLhicA=
 		</data>
 		<key>Headers/AWFIndexPeriod.h</key>
 		<data>
-		0DgQFT5KgI2qRyF7pSS//y3gNqA=
+		Sl2xAjNXHeqVVuvJJCw7qCTBPZk=
 		</data>
 		<key>Headers/AWFIndices.h</key>
 		<data>
-		voSsixVMIMqYPU7bkqMc+9X7658=
+		Vvx2ibmjlhXQl/wcLk+Zf/sQSv0=
+		</data>
+		<key>Headers/AWFLightningFlash.h</key>
+		<data>
+		khXgI+0X4NviwkUDF2+5OEqYqDA=
+		</data>
+		<key>Headers/AWFLightningFlashes.h</key>
+		<data>
+		ub+7nCCthfhGhK9TARK2h/JBdps=
 		</data>
 		<key>Headers/AWFLightningStrike.h</key>
 		<data>
-		QV3mh75P6zYeog0jsDgVseABq3k=
+		5HWyvGkJhbdKGJJhOK8gfKa+gks=
 		</data>
 		<key>Headers/AWFLightningStrikes.h</key>
 		<data>
-		hHSYbZLvRIBktPHvSb4Qw5bEghg=
+		o8AFh7K+7+PZc9eLdJlJ8m6UBSw=
+		</data>
+		<key>Headers/AWFLightningSummaries.h</key>
+		<data>
+		/KzXWwUUBAWmH37i/BiqWRtlPY8=
+		</data>
+		<key>Headers/AWFLightningSummary.h</key>
+		<data>
+		M37MUhEuY8SIjDGy/fBLeOrYUWE=
+		</data>
+		<key>Headers/AWFLightningThreat.h</key>
+		<data>
+		D7tzm9TsznJdT3tkLUqy9+k/e2w=
+		</data>
+		<key>Headers/AWFLightningThreats.h</key>
+		<data>
+		0n3GPvt+ZRsSq2CfEt1RTQliatw=
 		</data>
 		<key>Headers/AWFMapPermissions.h</key>
 		<data>
@@ -179,211 +203,211 @@
 		</data>
 		<key>Headers/AWFMeasurement.h</key>
 		<data>
-		CzcRSjBAy/T67PZubZpPPi3K31k=
+		NWZDKGk/IYCEs6PDAYxpvC6x7ok=
 		</data>
 		<key>Headers/AWFMoonPhase.h</key>
 		<data>
-		P3KUIVWCDffhh5GmAingWZos9Lg=
+		NcvqTs2xMe6rG24U3B8p/NqroKs=
 		</data>
 		<key>Headers/AWFMoonPhases.h</key>
 		<data>
-		nNz5oWd8VqR5N2fiwgoOl1fTt8Q=
+		4omH3A3NQZjFN9Gt2OZwrkOgHwc=
 		</data>
 		<key>Headers/AWFNormal.h</key>
 		<data>
-		5+Y/vGK+AuXU2aRCs84U8xrDHjY=
+		Et4w/r017bST4rTNxrCA9l986NY=
 		</data>
 		<key>Headers/AWFNormalStation.h</key>
 		<data>
-		lwHqMlAN5BLY5jpN1k4xl2lvtQs=
+		LZE9uYLGqpHnf2DyJE6t1cskf6k=
 		</data>
 		<key>Headers/AWFNormals.h</key>
 		<data>
-		qoYsHmvsFDzswgGrx3zwp/W0qnQ=
+		T9+tE4Ldtci184mJ7StMxJ3TfcI=
 		</data>
 		<key>Headers/AWFObservation.h</key>
 		<data>
-		VSds6MItDBHS+zMbC2RgX5DmvY0=
+		X6RymJbr1I+gEoj4GICbHWHQblw=
 		</data>
 		<key>Headers/AWFObservationSummary.h</key>
 		<data>
-		Ggpj6ITk8vDIDV3F6xoGdPvMn60=
+		6coppn7WpgbcwqkTAtY40MJHLl8=
 		</data>
 		<key>Headers/AWFObservations.h</key>
 		<data>
-		FpopMX1RGe9SNG1e58o+G4/tBi0=
+		QDgs+cnPClZiGtm0o8xD0O6Vfhg=
 		</data>
 		<key>Headers/AWFPhrase.h</key>
 		<data>
-		GC8OZrpozH2T72mzoyCkVkNJQKE=
+		s/FeOmpHO51O0fukrIj/gxpF4Tk=
 		</data>
 		<key>Headers/AWFPhrases.h</key>
 		<data>
-		vxS6sTbc7bKs36w4xVBhcwfjYcA=
+		ua3LuBixpKH0kK5JyO+Wvoe4d5M=
 		</data>
 		<key>Headers/AWFPlace.h</key>
 		<data>
-		mkoLwIUuSmKsFuDwLR5uPERyFb4=
+		BqRmKNZlBGY3V2pqeZZO5zamgeM=
 		</data>
 		<key>Headers/AWFPlaces.h</key>
 		<data>
-		oH1pbzErEuY/i9+pukp0OTPZM04=
+		PIhFt9rny9ugDROzsWOkJvEau8I=
 		</data>
 		<key>Headers/AWFPostalCode.h</key>
 		<data>
-		ySKbtJb8+BPyPcGVTck6rzBThQc=
+		KkUWEc3VRvZJuwHo4/SL7FCA3/E=
 		</data>
 		<key>Headers/AWFPostalCodes.h</key>
 		<data>
-		p5+pXpv+brESB/xVNSX0vO8NAEQ=
+		vtzQ5v6m2kqbRiwHu45ZNx/KJhg=
 		</data>
 		<key>Headers/AWFPrecipRangeSummary.h</key>
 		<data>
-		Dz8eWN3LMr1D5S9knbF2JD5lB38=
+		db3en75Rp2qXJQ8J7iRwwceReso=
 		</data>
 		<key>Headers/AWFPrecipitation.h</key>
 		<data>
-		hPb8JC+x05ezoSsPzU6SzvI4QL4=
+		g4QyJ4E+BktmIYg2NYsyxaYjV18=
 		</data>
 		<key>Headers/AWFPrecipitationEstimate.h</key>
 		<data>
-		zrr5OiQUhmbeJ91fvXlfPxasLkU=
+		eDTqSHyyIxJf7pyc9rvW5vkza4A=
 		</data>
 		<key>Headers/AWFPrecipitationPeriod.h</key>
 		<data>
-		9IwEqBLzjYaRLI0VGVCIOb+f0Zg=
+		GcvKy5qdEXjVBTz+Nv7o3UQUR48=
 		</data>
 		<key>Headers/AWFRangeSummary.h</key>
 		<data>
-		ZHAgkcn/XIYFHNdLikkt+d+XzAE=
+		2sBFSpZ7h13QJGXgBpU1yRZgWB8=
 		</data>
 		<key>Headers/AWFRecord.h</key>
 		<data>
-		VU6R5/h/9AWGCZGRdiMkRyO7p9w=
+		YwBnZ4CSr8UIOG2Tl81fWqE2msI=
 		</data>
 		<key>Headers/AWFRecords.h</key>
 		<data>
-		BFBGFeFtYmMsWVAH4QRgmBu74Dk=
+		9tcJGcVLFrhGLMefOrQCeyoYONk=
 		</data>
 		<key>Headers/AWFRelativeTo.h</key>
 		<data>
-		L+SMLR3HhHXTNqbBrR9JNyOmK8I=
+		j4oEE5/FWHRGJLNv9qIU0Z41ZC0=
 		</data>
 		<key>Headers/AWFRequestQuery.h</key>
 		<data>
-		XXY2lRJXgT/atJqFG00GJ1crncc=
+		5LIewj1ys6svG53mBJUKLadp//A=
 		</data>
 		<key>Headers/AWFRiver.h</key>
 		<data>
-		9QHHVf6/OfDTZiHP/8grfIK3WMI=
+		eLyCVRCaZgjd7CdmUA1mvuV/gdg=
 		</data>
 		<key>Headers/AWFRiverGauge.h</key>
 		<data>
-		/WnmW3mhlRoQVWjZtL04bIkIFX8=
+		MdaufL918zvghAxOlRPA0raI+1k=
 		</data>
 		<key>Headers/AWFRivers.h</key>
 		<data>
-		zv4Rhn0F9UduekCRaDh2c6WkHxQ=
+		u4A4g1kN8BMklGGi0/tZJ3HafRk=
 		</data>
 		<key>Headers/AWFSnowDepth.h</key>
 		<data>
-		fABQMKX37uSEoxp0A3La3m83gGI=
+		sVvXHDeNTFB93mB/oGTsw89VtXA=
 		</data>
 		<key>Headers/AWFStormCell.h</key>
 		<data>
-		IGzNt8yJ6h63IheRZXJq017eOQw=
+		rLO9LTThQTESlQZpglGtUI9snwo=
 		</data>
 		<key>Headers/AWFStormCellSummary.h</key>
 		<data>
-		JiNutgO/0BGccPhK751UUNhK8Ko=
+		37qb660b89oOSrT3dEhpacut0r4=
 		</data>
 		<key>Headers/AWFStormCells.h</key>
 		<data>
-		OzLnj3D1qT9CjHksvLPp/LWTmaE=
+		RJZmmG0rXCkGDNsrc9usHFLbfDM=
 		</data>
 		<key>Headers/AWFStormReport.h</key>
 		<data>
-		7SeZmasY2rhFTqZkE/8pJlnEu9Q=
+		ZvkxbnBmlV0fzli2C7l/RfnPnnk=
 		</data>
 		<key>Headers/AWFStormReportSummary.h</key>
 		<data>
-		ghAwLOpfkZWzDAIfFfRMF6/ju3U=
+		79QSZgiME3livR8lPsPik1TP4IM=
 		</data>
 		<key>Headers/AWFStormReports.h</key>
 		<data>
-		V3vWE6ID07xnDjMhRvfewfDzhnY=
+		+UBq0Z5IKReUTDJrS2hOQ0k4lGQ=
 		</data>
 		<key>Headers/AWFStormThreat.h</key>
 		<data>
-		wdN2iD4DY5hQwBKse1CSKUC8gNg=
+		mcfA4y90/IpjXsIjOpN/UFRN4kk=
 		</data>
 		<key>Headers/AWFSunMoon.h</key>
 		<data>
-		ZzFt4Hm3/6xx8WIH/1JqwbCIO5Q=
+		zR/CJFDvxE1Y41KuzTU5D1vvZLk=
 		</data>
 		<key>Headers/AWFSunMoonPeriod.h</key>
 		<data>
-		3svYv44EnmF2k2C5C+PtX5FDYBg=
+		PlAtT1Y1ZBYF64TjgwoUsezoJPk=
 		</data>
 		<key>Headers/AWFThreat.h</key>
 		<data>
-		SYar4xkJPSTMhatEx5OmOkGFZsA=
+		3QF0iAtGK0jm8ZsR18iCCbwxZKs=
 		</data>
 		<key>Headers/AWFThreats.h</key>
 		<data>
-		sI1cHsTPA28sZXi+BilC+0Xm9BU=
+		Bsi0R4rzubPv212df7wpL2qsqBE=
 		</data>
 		<key>Headers/AWFTide.h</key>
 		<data>
-		UpFnCyMD+HSiISiOPnPBSn6EUQM=
+		7YzYL0sg2rbLGCasHEAcDCqsZfA=
 		</data>
 		<key>Headers/AWFTideStation.h</key>
 		<data>
-		AoXO0GTlDP285QuJxV/mousCOSY=
+		hD7MfiI+vAn9eorSp674OORwfBc=
 		</data>
 		<key>Headers/AWFTides.h</key>
 		<data>
-		t72YD0XufAMaPxafEzPov43nqLs=
+		57FeaNma8aWowQpzAFMaQicqGzs=
 		</data>
 		<key>Headers/AWFTropicalCyclone.h</key>
 		<data>
-		JRlZQPgTSeBcZ0OPSEzhk5GA+KU=
+		+7CYkKRkULbZXY50FjMUQtoOmXE=
 		</data>
 		<key>Headers/AWFTropicalCyclones.h</key>
 		<data>
-		JRpuAYWPKwLRPXe6M5kKHrR8xCU=
+		KBVBxGSFR7vJXsjbQ5aNK6zocoQ=
 		</data>
 		<key>Headers/AWFVenue.h</key>
 		<data>
-		ISNdH4QdUS5x2bPUucFSYLU5/sc=
+		Yv9ziJ09cLRllnBWLqkCDdyCufo=
 		</data>
 		<key>Headers/AWFVenues.h</key>
 		<data>
-		jgDGSTuIlb2ZrT7QT4RflaaGcN8=
+		CUzVDpKUqP/fJ36Lmf1cqd5PP+c=
 		</data>
 		<key>Headers/AWFWeatherApiClient.h</key>
 		<data>
-		2qOYW1vBHa4lN9jDLtkOg0xWVxQ=
+		Eu9FN6ny3NL+XTiY5ZXzFkGMPAI=
 		</data>
 		<key>Headers/AWFWeatherApiResponse.h</key>
 		<data>
-		Xh9Re5y5VwBRXw3oUixcE8qCWnU=
+		AFL2jxuttkfB8kZpYWl+LJmIlLk=
 		</data>
 		<key>Headers/AWFWeatherDataType.h</key>
 		<data>
-		jl08IU2h1n4tRkV2JRKwWbeoHnw=
+		A74tzc7TOQ7hkYYK1FPmsLw5lRU=
 		</data>
 		<key>Headers/AWFWeatherEndpoint.h</key>
 		<data>
-		kVepE+oMD7ahKTOwt/r6WzAtgE4=
+		s3QHoDW4meqvR+6e08pKHXW4Di8=
 		</data>
 		<key>Headers/AWFWeatherGlobals.h</key>
 		<data>
-		WtYUmyeRzIL9qO9KEhOOS+7CYgU=
+		8jMpyPjGiIlf/in3KRDsiroh39U=
 		</data>
 		<key>Headers/AWFWeatherGraphSeries.h</key>
 		<data>
-		gYv7jMiSejXfyGxkO1btNBAxlR0=
+		LxvoLJiV91mvdk+NiNmx0Dbe3zc=
 		</data>
 		<key>Headers/AWFWeatherObject.h</key>
 		<data>
@@ -391,19 +415,19 @@
 		</data>
 		<key>Headers/AWFWeatherRequestOptions.h</key>
 		<data>
-		R52YZm6lPn+TaeH/l7qgUbyZmIs=
+		eyhMDCx8TJQjKv2KKxw2IGXB6xM=
 		</data>
 		<key>Headers/AWFWeatherSeriesItem.h</key>
 		<data>
-		2Mn8lwB7bkiZt9HCVPUIyCk+288=
+		AhdyahQKnkVRExIKec/iZsdqWNY=
 		</data>
 		<key>Headers/AWFWindRangeSummary.h</key>
 		<data>
-		jOMRE43H4U1i9F99r2ZVMw7oAgA=
+		y+vWAWQ+7UReQC/XXrvo94KaV1g=
 		</data>
 		<key>Headers/AWFWinter.h</key>
 		<data>
-		KRvx6auZs58U+ZUzRtUNGrMoyIo=
+		p9SG9neusrOOOoHB1V5bZ89JSLw=
 		</data>
 		<key>Headers/AerisWeather.h</key>
 		<data>
@@ -411,7 +435,7 @@
 		</data>
 		<key>Headers/AerisWeatherKit.h</key>
 		<data>
-		8bmy9giP0zQ8hnUxMPzw8OMnV7g=
+		yc4h/ZIindcHevYfr0ewi43bySk=
 		</data>
 		<key>Headers/NSBundle+AerisWeatherKit.h</key>
 		<data>
@@ -419,29 +443,17 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		71qqHqzoqzOtOW3VR4MpM2Pu73w=
+		K6xdA3Tk9Q+WcCRU62gaUMTjs9I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		sMZVyAtfNiT2dwEvgHva/NL8PKI=
-		</data>
-		<key>advisories_summary.json</key>
-		<data>
-		2vXnRqyLGVLOCJQEzA6ZYyEYWyg=
-		</data>
-		<key>fires.json</key>
-		<data>
-		3N/oVhfpnQD5OCFdEMpvhtqkw0k=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>AerisWeatherKit.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AiiVgD+9HVJGlKrobim6e3Oln0g=
-			</data>
 			<key>hash2</key>
 			<data>
 			wBQAhcIa6QlKv3sJ5P0z3P8DEQDJ5Qsg9Ft2pbm7ZT0=
@@ -449,10 +461,6 @@
 		</dict>
 		<key>AerisWeatherKit.bundle/en.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lM0boEw4irHZ/f56cRkRHGTkr1Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			yDgk7OvNZ8hq7t7d21AJdEFYZ+SYC+5hr/nT18Z+puM=
@@ -462,65 +470,41 @@
 		</dict>
 		<key>Headers/AWFActivities.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hwC2SPo2cXU4hLN3RHbPza0XpdA=
-			</data>
 			<key>hash2</key>
 			<data>
-			A94fmFfBK+U8FN1EZVU/DoEmdRXWe9wyKt8hUgg9Hl0=
+			u1yEBvjW/6qZgDDJTUraQIWtTj9WpIRuy3iJ3MkA6jY=
 			</data>
 		</dict>
 		<key>Headers/AWFActivity.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LPKxViuBHCxwY8RyU9dH4xjnS8k=
-			</data>
 			<key>hash2</key>
 			<data>
-			5Qq44ycznCR60aiLJmlAgYh7KzrS9FWe2yPbZ0KCaMM=
+			RnZ88mOWCj51QqGwS+M5YZQzJnkE7N5b+XB/m0F0kcg=
 			</data>
 		</dict>
 		<key>Headers/AWFAdvisories.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mDxaMolkcR0jf2E9lsaDpFJZSl4=
-			</data>
 			<key>hash2</key>
 			<data>
-			lNFAz9wMm2HeWdMsj0ULgbqzGA/s6toZ/FzW08vRkHY=
+			b1IQxufz2n9yXYTpAXrN2TgOnVvnD3dUjjhaCSqN9kU=
 			</data>
 		</dict>
 		<key>Headers/AWFAdvisory.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2rHebQKtsW89S/P1rQGwt7Ck+W8=
-			</data>
 			<key>hash2</key>
 			<data>
-			Q3V5f8c8bcrp6ILIEqkUB+fbuspNKcApEKuCMCnilVQ=
+			hoB4K3wA96nvfv8U24MSd57K9N6ImfAfity+0Y0ZdX0=
 			</data>
 		</dict>
 		<key>Headers/AWFAdvisorySummary.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			c7QHJqyQ5cshCw42XVVlmqXfOjo=
-			</data>
 			<key>hash2</key>
 			<data>
-			FL4OY/6H/EM0YrlsLuUBZRwLnlZ4xeSgGDPNL3p05ic=
+			trgG7RFiEjKJWTTSoYaqeLG5E9bb1l8o8oXhPH/dkSo=
 			</data>
 		</dict>
 		<key>Headers/AWFAerisAccount.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6i8Q+JC09kgoCsjNoVLTX4Sjzj4=
-			</data>
 			<key>hash2</key>
 			<data>
 			TM2rfolblCGCu5oJItPYfQHlHcG7mgWuBIRS2ROjWWk=
@@ -528,54 +512,34 @@
 		</dict>
 		<key>Headers/AWFAirQuality.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y7JJ3c7awU3o/DFwpTqBdIp+K4A=
-			</data>
 			<key>hash2</key>
 			<data>
-			U9TOo4TeR1D8aKfLQatNJbdkkn+JQlb00mv1597x920=
+			9dvzUjVF0AkCpxOXA5ArvdsPanZ1XXo+AAMO5JWfUvQ=
 			</data>
 		</dict>
 		<key>Headers/AWFAirQualityReport.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8gUSP8rCtyzsfJxHIO2FQapqtMQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			gdlGW2FhvJm5/VXRhjyicgcpYHdGPTtp4P1TeUfkQ2M=
+			wQQ2Bxz+iy2vA7mfujqqJzgTsB4xToH+QTHawr/va48=
 			</data>
 		</dict>
 		<key>Headers/AWFAirport.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+aeExSM6Uh5/7+xB3Mt/q+vgRQ4=
-			</data>
 			<key>hash2</key>
 			<data>
-			t+24DUJXk3pewet7lIXPg7TQ3WYNKkEpnOZLfQ3vJuw=
+			R97eRvKtdunPMVxj4/yZiww1AkprSXXc/IuT8Yod+3I=
 			</data>
 		</dict>
 		<key>Headers/AWFAirports.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PKU6q2oTQyYbRHBzNMukuyyhbiA=
-			</data>
 			<key>hash2</key>
 			<data>
-			VePJj1mWMWWWxp2km2gm6CpAn1A0iBdzFZ3tU2z3H0I=
+			mQ/KRvyZdp7eLWUUMRCsu81uZMESk9seM2j8lAq7Utk=
 			</data>
 		</dict>
 		<key>Headers/AWFApiPermissions.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eBui9+OdNyQ8tCcy70ojBppM8yc=
-			</data>
 			<key>hash2</key>
 			<data>
 			8uosd8nab/59jRLn0RpWnst9LjESIXsSNkfcrXLEn8o=
@@ -583,76 +547,48 @@
 		</dict>
 		<key>Headers/AWFBatchRequest.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AGaDf93aI2oh/vx8ywFJoD2b8VU=
-			</data>
 			<key>hash2</key>
 			<data>
-			TphVuUBxQY0RGdkc5jbgeCVe02D+B7Fq/O5aZF3iVao=
+			HnVGo0zL9VuH/Uoh+d61jZnESOcJDCmZgQjX20iwW78=
 			</data>
 		</dict>
 		<key>Headers/AWFCondition.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ijJJfkS3akjkDG+aICyLROK8V7c=
-			</data>
 			<key>hash2</key>
 			<data>
-			igzy+Cm2VQv6u/FX/5VGMY8oCsUabPKS/Zqh2Tc2n6k=
+			69I1MSo6KYPQzw8iw4/MRyHXxwcCtfAictdx+a7PICk=
 			</data>
 		</dict>
 		<key>Headers/AWFConditionSummary.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4GVK1nWPM7GppGRmxyvIDsBC5Co=
-			</data>
 			<key>hash2</key>
 			<data>
-			9ARf6Ay2OMUMs4mxUHZIlg8s08AXVPHi1XyyheI79p0=
+			KtJOsBacbhO7ja9VKaMxliFEqY8dBwvs22fo1VbKjow=
 			</data>
 		</dict>
 		<key>Headers/AWFConditions.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nXdQhdQ3PRu8zYseldKmsL+72Y8=
-			</data>
 			<key>hash2</key>
 			<data>
-			NAwIUwmA00fd57THu0n6v5ON2XdO5hQW/m4Yvupc1ZQ=
+			F6niGiIO8TKwBs+cY2v/U2FMnjArUi5TfV1m2qT43Gk=
 			</data>
 		</dict>
 		<key>Headers/AWFConvectiveOutlook.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9zG9RxLvDT4+nJq1/r/lOIOIHdw=
-			</data>
 			<key>hash2</key>
 			<data>
-			niJVPUN5KjG5WbAkVJC2t3ZvVq+stTGYvcgjxniWr7E=
+			UFpW1piBFR8GY+S0vHetVcpfEJ0/r35qhQ+G+/UyFIU=
 			</data>
 		</dict>
 		<key>Headers/AWFConvectiveOutlooks.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sGcT5myEq4ecVdGcE2r5mBpnwI4=
-			</data>
 			<key>hash2</key>
 			<data>
-			oMALwHbzBeRlXhQMA9q6A+h/Jeftwfe6Zazb2x9quI0=
+			9Pb3qZnsl+2NwLshLS2a0ekKG63ZZmbSr/kGAUkUHaA=
 			</data>
 		</dict>
 		<key>Headers/AWFCoordinateBounds.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sjjHloQftNPs/Ls8GFLx3fyY8eo=
-			</data>
 			<key>hash2</key>
 			<data>
 			4QOxI3uXQxijQpmRDWVu7o/VbCwSZeRhNNdtdJQTkeQ=
@@ -660,241 +596,195 @@
 		</dict>
 		<key>Headers/AWFCountries.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			w5nwbvNnGdVIqYFKJuYW6Q/cePg=
-			</data>
 			<key>hash2</key>
 			<data>
-			UwhxmWixArCDex6heihl/GwhYTMWqzpTL2VM/MoAOBw=
+			rHFGlZmwyDVcnliaV5kqCnKMTRBMq1ZBu198jF5k0aY=
 			</data>
 		</dict>
 		<key>Headers/AWFCountry.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			du4dxK/Ofb8X74y8QzULDZ43IpE=
-			</data>
 			<key>hash2</key>
 			<data>
-			ISuzryfRuGOpel6HxqfLW2alwGvabHlQd+J1X46xa2Y=
+			6tQXzjhnTUtxO2GF8eAH7Ppgp8if+B/ibpmrH+iNRTk=
 			</data>
 		</dict>
 		<key>Headers/AWFDroughtIndex.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HpiPclaBYAxoypLd+kGcmJetu4o=
-			</data>
 			<key>hash2</key>
 			<data>
-			vKWSFhjJy7RrrWjabu9am3GsDPes+AXIrWomksNJzMU=
+			WxCYbtgtts5+c07Ns3psRdr1WTIRhOLQO83tCkR4KPQ=
 			</data>
 		</dict>
 		<key>Headers/AWFDroughtIndices.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XOYhZdT7a8EQkSBZVALTI6Igoxw=
-			</data>
 			<key>hash2</key>
 			<data>
-			LeoJEPBk/YszFP5JRVcjCVuDVrIut2AeXQUPkFD/Dck=
+			zpIfppHDbKdWUckUIyFDMIZaaNCyIR94ND7Vcnmep2k=
 			</data>
 		</dict>
 		<key>Headers/AWFEarthquake.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cRpz8sVUV7LEoej1GIXHTec6pxk=
-			</data>
 			<key>hash2</key>
 			<data>
-			DK8dp9W72I1PBwZGFFIMW3Mc34sZEWlSLdXAyDra0Qg=
+			wmt/qScZEHfBToCoPrLPWC7SUikpZnkgf/CLLXLW2ck=
 			</data>
 		</dict>
 		<key>Headers/AWFEarthquakes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MapA+h8xP4NCYs0sk//yJVAfykc=
-			</data>
 			<key>hash2</key>
 			<data>
-			LaxXLrVdgQoWuGTadLlC8L4amN0AeFLMvFo9hdEf+os=
+			Yb3EOS+qRe4j7pa6pM0VVRxRnSMpZrNRztd7kXDqbL8=
 			</data>
 		</dict>
 		<key>Headers/AWFFire.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ADHyzKvFiJepIW8+gg+t4NN6eRw=
-			</data>
 			<key>hash2</key>
 			<data>
-			VaV08eiqRCZIMcYzxGUEsZOv+Htu8I8YXVbQZ25yqGA=
+			J5FdnuZ448vqdY1rfrDzfH2zTftksOrhLJQ1Xy02c9s=
 			</data>
 		</dict>
 		<key>Headers/AWFFireOutlook.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			seN4AJHSq3jpTr1HKJJ0YoKabag=
-			</data>
 			<key>hash2</key>
 			<data>
-			wpMoZc2dVZn8jiT4g2MAl8quBYebChKHHkxES6sKTlg=
+			WxdX1M2K/CiOC6mQ2Z0k9FMe4nnsM2damSoJIjtVnmc=
 			</data>
 		</dict>
 		<key>Headers/AWFFireOutlooks.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VIs4olbkz39jmkpd+J/24sAjjrs=
-			</data>
 			<key>hash2</key>
 			<data>
-			sVAKWl8AYc3QC9iTj9tRPFlfsBvzDeruQhnwFwylBRk=
+			tr1JAc+clK8hBlyAVUFwWCzZh1itQ9YlwIPCYLHXOX8=
 			</data>
 		</dict>
 		<key>Headers/AWFFirePerimeter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ns2dBowQSRBJI59evB3HDDRwVI4=
-			</data>
 			<key>hash2</key>
 			<data>
-			QTp9I6HnloIiWh37CJKYXDpFQauZkHPaxkwcpeXvZwk=
+			e/MtkOEOF7/jP0fkb5Ke4EUx/cmZdujMZaki1OPPqyA=
 			</data>
 		</dict>
 		<key>Headers/AWFFires.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xdGzzPnwdbaGcwOT+b/3Zxi/4DE=
-			</data>
 			<key>hash2</key>
 			<data>
-			mvjVT0gh7t3/usYcRpv7OtKoOl2jdgERnJYrxX7Wu5A=
+			jPLVfp7NVYl7qUUTqO0VCQALb/BQmM3PTdWdgrqWw/0=
 			</data>
 		</dict>
 		<key>Headers/AWFForecast.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SBQZ9AWHvnAXiiGy0aGHrZWn9j0=
-			</data>
 			<key>hash2</key>
 			<data>
-			LG0E3sl1SU4YVHaTRqGHH0G5zLGW7WrtPFDxGDnnK5M=
+			KzvJtYCnC/omR12FkNrY5MZ5k/pcpPLeEUgaN6WbmE8=
 			</data>
 		</dict>
 		<key>Headers/AWFForecastModel.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			o9Sq/02evDcMdaGs2G7UVz5jvmc=
-			</data>
 			<key>hash2</key>
 			<data>
-			pbjC+W3ekrhO+t2y67NmxHzXBF/TM2rmc+Wv5sJpysU=
+			5Nslp70kG13vqRUihAXrnjGt7hUUaICyl2vOjjDLbc8=
 			</data>
 		</dict>
 		<key>Headers/AWFForecasts.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tOnGfYFT6RG92/5/G6FI/iCjrE0=
-			</data>
 			<key>hash2</key>
 			<data>
-			DAGUpLNgWCP/IJfbSVM5c7CLnGsddJ09c0P3E31YHpc=
+			Pk7jlo3ZpXMPHGCjI4YFKMdP6mNXR67iGK8WsuaUGGo=
 			</data>
 		</dict>
 		<key>Headers/AWFGeoPolygon.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			x/zv1DPhHGVuSGJ+O0jjSr5Q8PA=
-			</data>
 			<key>hash2</key>
 			<data>
-			kltIYb/NAExyEgCYIP6gnE221yaNarRXamIORDcVyJ0=
+			ERzxerlVVKzWGuQAU3y6NO8t14cDQKXII0z01zS08Qc=
 			</data>
 		</dict>
 		<key>Headers/AWFGeographicObject.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JavIXCAEWlNGnLI6hhPu9vdLbW4=
-			</data>
 			<key>hash2</key>
 			<data>
-			B2EhRc60L54OmqJmCXmRnF3wz19dKfaVbVoQEs5t8v4=
+			pjN7TbIDt+dEsr05BW8Ba0CWoSQD+TK8kOnSow+blcQ=
 			</data>
 		</dict>
 		<key>Headers/AWFIndex.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ow9ZUmCJacuU47N2wnuePInaP4U=
-			</data>
 			<key>hash2</key>
 			<data>
-			e7+I0OFLvnQDNQFjTKqEd1BqoZEIgMApUFjUtNjXO2s=
+			fcdSEi/qCQwc2dH/xjwS5YC8oCgxjCNE2n6Em+3zt0Y=
 			</data>
 		</dict>
 		<key>Headers/AWFIndexPeriod.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0DgQFT5KgI2qRyF7pSS//y3gNqA=
-			</data>
 			<key>hash2</key>
 			<data>
-			IYH3gfHe/jaGi6TYZ79bwUIpEB+Ny7xgdv+wP74UmXA=
+			5rNpjFXUByAoglwUUr8azYfsP4nRXR4UBYf4YWQUS70=
 			</data>
 		</dict>
 		<key>Headers/AWFIndices.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			voSsixVMIMqYPU7bkqMc+9X7658=
-			</data>
 			<key>hash2</key>
 			<data>
-			VynC8m8DxsdGjsaDApcwPkWJCnD2zVUSRfT8RG931yU=
+			hk5EBk2EVq1eCBCeK2IQwiobOMM0Y8Eft7iQHvAISfE=
+			</data>
+		</dict>
+		<key>Headers/AWFLightningFlash.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d/PKGQUhXUJ8rgk6oRaxtzzPDmEFc7zkRy+PJvNfv6I=
+			</data>
+		</dict>
+		<key>Headers/AWFLightningFlashes.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MdFYmsg5GTYcCgWDnTX8ZqZiC+HJwuhNN8dbotxQt+U=
 			</data>
 		</dict>
 		<key>Headers/AWFLightningStrike.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QV3mh75P6zYeog0jsDgVseABq3k=
-			</data>
 			<key>hash2</key>
 			<data>
-			M9RW0X4e7SG9BcH5+m8QkZswsfftAJyppVvkbVYrePA=
+			Rd1i+iJh5F4BbMxOvv/lc549BDLG6irHRxQLjra0Xtc=
 			</data>
 		</dict>
 		<key>Headers/AWFLightningStrikes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hHSYbZLvRIBktPHvSb4Qw5bEghg=
-			</data>
 			<key>hash2</key>
 			<data>
-			Z//lTmTaTNhbV+7pCLUA8Z0I8i0hwyGlifjK7RoO8mw=
+			sywKwGVfI6ZU9/Te/et8zl59APWchJFeiEE8wGzuZ/w=
+			</data>
+		</dict>
+		<key>Headers/AWFLightningSummaries.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vmGcR72UOZJ54G611W1jyAAccC1d4UPc5boaIKiWrVQ=
+			</data>
+		</dict>
+		<key>Headers/AWFLightningSummary.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8L46aYSXDpNFNF3Soca8cWbGVE7hjpPT41DP/LwxUPA=
+			</data>
+		</dict>
+		<key>Headers/AWFLightningThreat.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oPBI1z86SP4DP0fGeoUtPexDzoGoaIBKYRrlvlepn2s=
+			</data>
+		</dict>
+		<key>Headers/AWFLightningThreats.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vQnBMgMG6Q7z+dHq9gc65qgaSqQ0seIz07YBDpNWJvc=
 			</data>
 		</dict>
 		<key>Headers/AWFMapPermissions.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tAtJx80vlsV/srsQ5Sfmp4BLlPQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			FiaDomjJtG8oL1bYzzLLemoMgdzALPqZHSBYHOAL3FI=
@@ -902,582 +792,370 @@
 		</dict>
 		<key>Headers/AWFMeasurement.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CzcRSjBAy/T67PZubZpPPi3K31k=
-			</data>
 			<key>hash2</key>
 			<data>
-			3/tHBYDUEPTncQh1GpEtSfeUGlTOh56xCLjDApAOZ0o=
+			PzfNVXzJv0I3jgfAUhyoG4p+mgZuUckkc0P79zhGQPA=
 			</data>
 		</dict>
 		<key>Headers/AWFMoonPhase.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P3KUIVWCDffhh5GmAingWZos9Lg=
-			</data>
 			<key>hash2</key>
 			<data>
-			wjip1DCtWY4ZOIPbotZX5dtxE3o9pZ5FSHyRQX5mHUA=
+			Oqdn5k2Qvda7Wzr2lzMy4Td0x+R+I1iwtqZu8RnaP8k=
 			</data>
 		</dict>
 		<key>Headers/AWFMoonPhases.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nNz5oWd8VqR5N2fiwgoOl1fTt8Q=
-			</data>
 			<key>hash2</key>
 			<data>
-			XWX1NRHtBs++T7ihxx8pYDTf4nn7OmdcMEJnEQez8bU=
+			m3AQRVIsnTbstZgxrOH3BCwlYV9psSbn7NpnJAF/zl4=
 			</data>
 		</dict>
 		<key>Headers/AWFNormal.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5+Y/vGK+AuXU2aRCs84U8xrDHjY=
-			</data>
 			<key>hash2</key>
 			<data>
-			VQAGznU1cMF2FbY6ZUK06N+0PjyVvEjF1E/n7y1jWpM=
+			3X0gowLhz2TJAbP/f4uoOaQ+LV8hHECCVOrtoePwcao=
 			</data>
 		</dict>
 		<key>Headers/AWFNormalStation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lwHqMlAN5BLY5jpN1k4xl2lvtQs=
-			</data>
 			<key>hash2</key>
 			<data>
-			DTNLVSCj4k6xrNJ+FKHsz4LJFHPUGG9ojgLGepVQUzs=
+			np+QZkSifCS0BKbGkLzi0UgEHf3xXXFTMUFhfnw0fzw=
 			</data>
 		</dict>
 		<key>Headers/AWFNormals.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qoYsHmvsFDzswgGrx3zwp/W0qnQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			cQX/kEPCckU9Ver35BuMo04m0Zv985BzEClB0sXxEd4=
+			XaoSKSPD4E+KxDttRUb5tDh7S3VnykotzEJ0cqf6IR0=
 			</data>
 		</dict>
 		<key>Headers/AWFObservation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VSds6MItDBHS+zMbC2RgX5DmvY0=
-			</data>
 			<key>hash2</key>
 			<data>
-			FXWGdBKKmdnmzuDDMRlnVMaSfVgQpK5eTmSenh04Qqs=
+			zUCiceZ8cODkI49ZUO6lqDqjR2HJSIHnR9/6ci8g6ck=
 			</data>
 		</dict>
 		<key>Headers/AWFObservationSummary.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ggpj6ITk8vDIDV3F6xoGdPvMn60=
-			</data>
 			<key>hash2</key>
 			<data>
-			dFJiOAPMfOWoQoarncEBob0EN33WhYyU33kctoRSO8o=
+			KmV/STruZ90lGCbA3fky69Gd2W//NT3W0kRpTdWXwOE=
 			</data>
 		</dict>
 		<key>Headers/AWFObservations.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FpopMX1RGe9SNG1e58o+G4/tBi0=
-			</data>
 			<key>hash2</key>
 			<data>
-			v0LBhCyOzJ1WmrNeWAlmqwwHXOuj9Ey0fy8P99QwBgk=
+			Qjs22Bdy82L8abbgim64YJFnhsYL5FAbeNglg8Oy9rE=
 			</data>
 		</dict>
 		<key>Headers/AWFPhrase.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GC8OZrpozH2T72mzoyCkVkNJQKE=
-			</data>
 			<key>hash2</key>
 			<data>
-			G9Vmi0wqjxS5uIrnPy9sN1T6OPJh1yP7fRWGJ9gcL8E=
+			/9z9t3oXVsIba9HQD9fnzSUJj9DhzGtvRckXO1y7cAY=
 			</data>
 		</dict>
 		<key>Headers/AWFPhrases.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vxS6sTbc7bKs36w4xVBhcwfjYcA=
-			</data>
 			<key>hash2</key>
 			<data>
-			zRpD4Gp1EODXAtX9wHciFGCTV5o9L4hzA/IqUmXTZRg=
+			NH2VS9QPolpmETq/MRS3czi86lOrXNlfWGXAEwrUIRc=
 			</data>
 		</dict>
 		<key>Headers/AWFPlace.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mkoLwIUuSmKsFuDwLR5uPERyFb4=
-			</data>
 			<key>hash2</key>
 			<data>
-			3IRlc3U9hy23Be7ajSdhLL22rE2bvK+GGKaUHPMtRnE=
+			+L3h/q2coSgbhwJbGU08mKJ8oLdVp5kXN/WGxxD+1wE=
 			</data>
 		</dict>
 		<key>Headers/AWFPlaces.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oH1pbzErEuY/i9+pukp0OTPZM04=
-			</data>
 			<key>hash2</key>
 			<data>
-			BrMJZIvC2GKkNnVmgmXCd0JY9yhyWWtU+nZMi6LYamw=
+			Dwm6zXSh724CJFUr6MJqMLPtB6v+e7ZSnUoLfmA8Tuo=
 			</data>
 		</dict>
 		<key>Headers/AWFPostalCode.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ySKbtJb8+BPyPcGVTck6rzBThQc=
-			</data>
 			<key>hash2</key>
 			<data>
-			KXN3X2tr6u/Dxmf/lTuX+HPKUyJxszmYgXbMPupuFY4=
+			nsmgw1YVTTMJ9R29ooRHirpP1aWp2/3bxp+N1Pa1g7E=
 			</data>
 		</dict>
 		<key>Headers/AWFPostalCodes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			p5+pXpv+brESB/xVNSX0vO8NAEQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			A1Wf+ODkBmGC3pz2zlAaEEgiQSceM3jZRjiPhweCigg=
+			TOWVtDN4V7mhqo7OlMKO3XRmM8zN47xV/lTi4GU1pS0=
 			</data>
 		</dict>
 		<key>Headers/AWFPrecipRangeSummary.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Dz8eWN3LMr1D5S9knbF2JD5lB38=
-			</data>
 			<key>hash2</key>
 			<data>
-			67vjjdtw+hpJrQJYHhsNdDUfA/rPPruvs2M9GZbE97g=
+			bHIiJ8X2N9e+Jsy+95fyant7BVwWOARWyECKDp1shsg=
 			</data>
 		</dict>
 		<key>Headers/AWFPrecipitation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hPb8JC+x05ezoSsPzU6SzvI4QL4=
-			</data>
 			<key>hash2</key>
 			<data>
-			uP4UCkFwKSSRS7XfHWt6zkgDh/MoPN3qxmPE7nax98I=
+			EeX/bkodo+tvudkyjIVnn7toFV7QZUowFp9OwYasq5Y=
 			</data>
 		</dict>
 		<key>Headers/AWFPrecipitationEstimate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zrr5OiQUhmbeJ91fvXlfPxasLkU=
-			</data>
 			<key>hash2</key>
 			<data>
-			dHkorzMZBivFisZkceXdlQ5zjYWYmqh05RnMqC9KUw8=
+			MaQkMGQFvSjQ1MGK2UCpnAHfozlseU0Z0Qr+RaaM4tA=
 			</data>
 		</dict>
 		<key>Headers/AWFPrecipitationPeriod.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9IwEqBLzjYaRLI0VGVCIOb+f0Zg=
-			</data>
 			<key>hash2</key>
 			<data>
-			T9eYcuQCNXrDvrH6IbZP8CQYlEEb+texc0FELd2KHHw=
+			OIjK5pT5prgl6LInLYQVozlvaRiOuUfB+63FYB/HkqQ=
 			</data>
 		</dict>
 		<key>Headers/AWFRangeSummary.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZHAgkcn/XIYFHNdLikkt+d+XzAE=
-			</data>
 			<key>hash2</key>
 			<data>
-			jDeMc9JZEXEmGBZwPilRzXLexcrHdQOfpl8ujtUegjo=
+			fzqwlc/Ki+x+P07yzSDye2GsBKq3l+ZndpdEIxu3NsA=
 			</data>
 		</dict>
 		<key>Headers/AWFRecord.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VU6R5/h/9AWGCZGRdiMkRyO7p9w=
-			</data>
 			<key>hash2</key>
 			<data>
-			7DzBCUQuP7KVZMI9eciwiRnZolMOWjhWJFJ/ph6gCcM=
+			ZOiuBBtYo8ee1s/xmotXJ8LkojZuNPbc0Nv97x6bmIc=
 			</data>
 		</dict>
 		<key>Headers/AWFRecords.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BFBGFeFtYmMsWVAH4QRgmBu74Dk=
-			</data>
 			<key>hash2</key>
 			<data>
-			U4HDa1YCj5A/W1E2vODJaajbSfTerTf+2sQQ7D4gbj4=
+			PXKhNTrXlpJWDTK9mWAD67lIcBgoB5+PRTfyRLp+hZ4=
 			</data>
 		</dict>
 		<key>Headers/AWFRelativeTo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			L+SMLR3HhHXTNqbBrR9JNyOmK8I=
-			</data>
 			<key>hash2</key>
 			<data>
-			xK2OLGo7SCOarJbuMYDewmtZSWZGXdjDUnKBykiuHEc=
+			2EQmVzAjYkiGuKsKIK47eY27anpC9yNbbX9rJIy8COU=
 			</data>
 		</dict>
 		<key>Headers/AWFRequestQuery.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XXY2lRJXgT/atJqFG00GJ1crncc=
-			</data>
 			<key>hash2</key>
 			<data>
-			qu9v3K2MKUgc5i2iwHpQqEJdssRJJgum6Cr9+ZKJuwU=
+			dwxsLDMwG5JAt05mxMTHgK6J8JlJVfQNEUaAmcWNUQU=
 			</data>
 		</dict>
 		<key>Headers/AWFRiver.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9QHHVf6/OfDTZiHP/8grfIK3WMI=
-			</data>
 			<key>hash2</key>
 			<data>
-			G38z80oaJrUoxG32OrkcKJ99fAEMO7HVAig/bs/BO1Y=
+			loxuptIyxKuew/ZS5STSd2ZHGUCuI/ewmIzIv4jJT8g=
 			</data>
 		</dict>
 		<key>Headers/AWFRiverGauge.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/WnmW3mhlRoQVWjZtL04bIkIFX8=
-			</data>
 			<key>hash2</key>
 			<data>
-			sZfOUoG0r5MDKvRgcOWq7ci0h+PHwGIHVhZWHbqT2Eo=
+			u8Y7Nh+9jfaBaeKbxtSSNHT+IfCU/vnaTS+TZyXRFbE=
 			</data>
 		</dict>
 		<key>Headers/AWFRivers.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zv4Rhn0F9UduekCRaDh2c6WkHxQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			1cuua6Rc3R4tWslz6RvrGYw0p5+rXhJ3c0O9jCR0omE=
+			q49aBgJttWxquTVdwqSj3R3aQj29j8FgPhLWJ1B851k=
 			</data>
 		</dict>
 		<key>Headers/AWFSnowDepth.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fABQMKX37uSEoxp0A3La3m83gGI=
-			</data>
 			<key>hash2</key>
 			<data>
-			Z2AC5aazNCiK8dniO9bVc6CKB4oZ8EJeGtPxI1yRl5A=
+			TEHK2GiEPgVoJ355vCmseDw1wzlV+q3BEhQ9lcrEnfM=
 			</data>
 		</dict>
 		<key>Headers/AWFStormCell.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IGzNt8yJ6h63IheRZXJq017eOQw=
-			</data>
 			<key>hash2</key>
 			<data>
-			itmvNPmZC0AiSZXFRa04htwx2MkFVBc/RQjl+MT7Xr8=
+			fias7PRX3QRo0vNUKMx6h6FAsbVCMA57oEokx8BZVlk=
 			</data>
 		</dict>
 		<key>Headers/AWFStormCellSummary.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JiNutgO/0BGccPhK751UUNhK8Ko=
-			</data>
 			<key>hash2</key>
 			<data>
-			K4TNm1PmPWlQaPEpeERKRe5kO9JXqaycXatH9RghFTY=
+			x7jBL5NH0drYou79+jl1dDI2wDA/xD9poeY2OGHsJUM=
 			</data>
 		</dict>
 		<key>Headers/AWFStormCells.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OzLnj3D1qT9CjHksvLPp/LWTmaE=
-			</data>
 			<key>hash2</key>
 			<data>
-			dZvwPWerRHiYB0blHmV/kBQKwN4JvK2IOajC84BVjFg=
+			PvJqmRAZrEyTXUhNoS7esJ+RQN6phaAK9sflRP61Me4=
 			</data>
 		</dict>
 		<key>Headers/AWFStormReport.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7SeZmasY2rhFTqZkE/8pJlnEu9Q=
-			</data>
 			<key>hash2</key>
 			<data>
-			KDXLVM/wFMpqDXwr7VK+BTEjzGFJMdID2pMOlpj/rJg=
+			M9dwK2pmKczrIyGH7kDGvPNl2CBZjLQkJmMWbk+RxYc=
 			</data>
 		</dict>
 		<key>Headers/AWFStormReportSummary.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ghAwLOpfkZWzDAIfFfRMF6/ju3U=
-			</data>
 			<key>hash2</key>
 			<data>
-			exVo5IoggTIWkfW6U8ahRWSnTkGianTmW/s2hHe0SgA=
+			o8BTtBmSDai9lFIlLplKgbg+Tn1buaHsgPIBzBrfh28=
 			</data>
 		</dict>
 		<key>Headers/AWFStormReports.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			V3vWE6ID07xnDjMhRvfewfDzhnY=
-			</data>
 			<key>hash2</key>
 			<data>
-			OvkhSkWYMvEp1eqCdjvBiB/4NySnlsIhpKyBO9Kog9M=
+			UlLmAQoqUo07RmgDWbXoFcviaSuKXO3vsoxncKF+XoE=
 			</data>
 		</dict>
 		<key>Headers/AWFStormThreat.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wdN2iD4DY5hQwBKse1CSKUC8gNg=
-			</data>
 			<key>hash2</key>
 			<data>
-			+mSlWTeN7rLahZy/BMtSI36i4YJHiKCisC64VJQ0rGs=
+			v479uDAEtybPAuuJaUyZGoKC6afmYFYSlAezZQw8K5k=
 			</data>
 		</dict>
 		<key>Headers/AWFSunMoon.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZzFt4Hm3/6xx8WIH/1JqwbCIO5Q=
-			</data>
 			<key>hash2</key>
 			<data>
-			39aRY/DEN7yieJ3e8oAlYAcP8iUctR9WRQYI/POOaKk=
+			oEPN+MmwpV2xPYEoxRPx5gSB5Vj+F3rKDzpxKxFR86Q=
 			</data>
 		</dict>
 		<key>Headers/AWFSunMoonPeriod.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3svYv44EnmF2k2C5C+PtX5FDYBg=
-			</data>
 			<key>hash2</key>
 			<data>
-			3LmuWUgTPBkdUzK1aDn4Iy5ktNkTWd227iyPt2q5Ft0=
+			JPSGAE4elvmDgbaRva+l+KVsmlApc96X4U6CFg1sm2M=
 			</data>
 		</dict>
 		<key>Headers/AWFThreat.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SYar4xkJPSTMhatEx5OmOkGFZsA=
-			</data>
 			<key>hash2</key>
 			<data>
-			UGjWGAx4vT4EiIwpA+AALBIEqsvOXkKl6RATF8V5q1Y=
+			rbQKoGFCJL5VE4MS4275qw99CF0TDtSreL6yKpyVFv0=
 			</data>
 		</dict>
 		<key>Headers/AWFThreats.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sI1cHsTPA28sZXi+BilC+0Xm9BU=
-			</data>
 			<key>hash2</key>
 			<data>
-			frxf7yl7TH6NNmBfEmEx9MqnKnz7S1QZGworJTAnJCQ=
+			cGC9Sk/AGluDX2LNzPHW4CMPXaoqvO3mS8aST4BvXW8=
 			</data>
 		</dict>
 		<key>Headers/AWFTide.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UpFnCyMD+HSiISiOPnPBSn6EUQM=
-			</data>
 			<key>hash2</key>
 			<data>
-			nFdG40mSzYP9V6/bhwG5gLBexEd4izKOE31E2wTB2No=
+			GqcSN2McX6ZGXbrcwgfh4+V71I+YSYjF7r66MXan5U8=
 			</data>
 		</dict>
 		<key>Headers/AWFTideStation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AoXO0GTlDP285QuJxV/mousCOSY=
-			</data>
 			<key>hash2</key>
 			<data>
-			7x0mZgM1P/UtDvXWhSEezv9yZ7RveyghLQJhrI1opio=
+			Pdbp/NuEiTpGMgWkbdRCoDy2CmzXMmkwqe4JHSkl50Y=
 			</data>
 		</dict>
 		<key>Headers/AWFTides.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			t72YD0XufAMaPxafEzPov43nqLs=
-			</data>
 			<key>hash2</key>
 			<data>
-			SqF65lT+JKecKQdpWd53r0V+KqlHIQpdPlq8CgiR2DM=
+			hez901OFRZnpywcsIvjLxJBBvhOSzgyy7G4bmiI6l+k=
 			</data>
 		</dict>
 		<key>Headers/AWFTropicalCyclone.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JRlZQPgTSeBcZ0OPSEzhk5GA+KU=
-			</data>
 			<key>hash2</key>
 			<data>
-			KZEm/vr/SU+fe065XPjU495OxU4hwOKynXjjpRYgwRQ=
+			mSeWzEJnq6Z1ZF91MafaXHByHGYOR7oBDQN4gtAf9V0=
 			</data>
 		</dict>
 		<key>Headers/AWFTropicalCyclones.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JRpuAYWPKwLRPXe6M5kKHrR8xCU=
-			</data>
 			<key>hash2</key>
 			<data>
-			m1DygroH1dvv3lme+74J+BW1yscwMpUp6fptixUHxks=
+			v9ae6zXlOiDY9LZpuuZj0jzaSO8WionCX2TJ+tptVE0=
 			</data>
 		</dict>
 		<key>Headers/AWFVenue.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ISNdH4QdUS5x2bPUucFSYLU5/sc=
-			</data>
 			<key>hash2</key>
 			<data>
-			qzc221YCDYFakYC79ASh0d0+CeZFAIyhRKUb6xwH4HI=
+			QLv+QfrUp4NMWXLrTVl1maQLacbfdf8Wnkcf+LZW/fM=
 			</data>
 		</dict>
 		<key>Headers/AWFVenues.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jgDGSTuIlb2ZrT7QT4RflaaGcN8=
-			</data>
 			<key>hash2</key>
 			<data>
-			sYFUAafnQAeTD1GpGG5vpU+ASFz0A/bAuu3otxRRIk8=
+			SMCZ/AdKR5Ku/CbUHuSABmKTMOgJMmk2YVUioR9x+Zw=
 			</data>
 		</dict>
 		<key>Headers/AWFWeatherApiClient.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2qOYW1vBHa4lN9jDLtkOg0xWVxQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			e2zq0B9IbT3w631YCHZX4rzWY90uELvmoRdDSr6EXZk=
+			32O/r5XFq8IiHb5FPKx81IjD5lWIhR4XbZOY8T2Mj5Q=
 			</data>
 		</dict>
 		<key>Headers/AWFWeatherApiResponse.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Xh9Re5y5VwBRXw3oUixcE8qCWnU=
-			</data>
 			<key>hash2</key>
 			<data>
-			up1wNFnL9pmpbUFUVmk1K0gmpm6lr4xpg6Emwb4j1VQ=
+			k9yRMmpo/lJvPqpZKUgiFvookcat3iwufbwQ6kqMka4=
 			</data>
 		</dict>
 		<key>Headers/AWFWeatherDataType.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jl08IU2h1n4tRkV2JRKwWbeoHnw=
-			</data>
 			<key>hash2</key>
 			<data>
-			U1cJMMVBU+jL3WsQqfLiVL/rEY9pa/T/3hJ0gzmo0xk=
+			GVb8MUkuIT5RaWwxPaAovIO8pVN5XXPl1tYkq6LRCDk=
 			</data>
 		</dict>
 		<key>Headers/AWFWeatherEndpoint.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kVepE+oMD7ahKTOwt/r6WzAtgE4=
-			</data>
 			<key>hash2</key>
 			<data>
-			58mFlirHbyYUdH+xtWbW2yOywCbN3T7arvteXss5Ffc=
+			UyUWNVpEnvIYQPFHYzyzPbn0RRXob1RTtbtzcHAvjus=
 			</data>
 		</dict>
 		<key>Headers/AWFWeatherGlobals.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WtYUmyeRzIL9qO9KEhOOS+7CYgU=
-			</data>
 			<key>hash2</key>
 			<data>
-			Ir0AQUQv/aM98dVtR0UTvk+W6HiQS41JcHDxFMe9/Cg=
+			ROM4I6/F4Jx2ywcUQWbo9d4HF+llRyKGH/tAVG4Tw5w=
 			</data>
 		</dict>
 		<key>Headers/AWFWeatherGraphSeries.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gYv7jMiSejXfyGxkO1btNBAxlR0=
-			</data>
 			<key>hash2</key>
 			<data>
-			SLEBFm0jtfpoQEw0bx6yyV4aLkUnWuQiM80P80HulbY=
+			8tpHbmnB6KrDTfe7jm5SFH2zfZGJBgfvJMV9zvljpHw=
 			</data>
 		</dict>
 		<key>Headers/AWFWeatherObject.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			72qvkubjuTHm0drFoA0tzaDGtuU=
-			</data>
 			<key>hash2</key>
 			<data>
 			O0Z28nQDoxzA1oAHWPlCVLE9X52BRz7dv29Q87vlABQ=
@@ -1485,54 +1163,34 @@
 		</dict>
 		<key>Headers/AWFWeatherRequestOptions.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			R52YZm6lPn+TaeH/l7qgUbyZmIs=
-			</data>
 			<key>hash2</key>
 			<data>
-			ETg5WoVHC1RnjsxhOEOoH+acXC+/p5XXv0DJqbOWgZc=
+			eJTBQrUUQicRKUQ4SWjEPOglinIQ8axHKkT/75qmV7w=
 			</data>
 		</dict>
 		<key>Headers/AWFWeatherSeriesItem.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2Mn8lwB7bkiZt9HCVPUIyCk+288=
-			</data>
 			<key>hash2</key>
 			<data>
-			w3evA7noJ/2INObeG0ZYee0kneFq6ZJMIl7J1ngVX+8=
+			+eazkpjfqN3dOB/o0j3mVIoRIT3ENtbU5ih321Erg5s=
 			</data>
 		</dict>
 		<key>Headers/AWFWindRangeSummary.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jOMRE43H4U1i9F99r2ZVMw7oAgA=
-			</data>
 			<key>hash2</key>
 			<data>
-			o7nv23Floq1AjLPtRW9VAcTn0TxIQF9LXt0wxKX10y8=
+			lcB2vG5ES0sQSP3GPB21bIDe8CQnsPmYyS7RMnC0Zws=
 			</data>
 		</dict>
 		<key>Headers/AWFWinter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KRvx6auZs58U+ZUzRtUNGrMoyIo=
-			</data>
 			<key>hash2</key>
 			<data>
-			bU4jWAjqV1eFqVE2/xVDSliaspXFMWFppXUsrLPV+8U=
+			1uGCNnEYYnNsyvqsc9gxWVmJZB2LTbIcost/qPqwUu0=
 			</data>
 		</dict>
 		<key>Headers/AerisWeather.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SIc9mnrvkv908uxsVGjBhlL7gqk=
-			</data>
 			<key>hash2</key>
 			<data>
 			xS5caePxdk9Qvs6PPXpKeY3Kz5jH64ZI+dYBPQ5GkCs=
@@ -1540,21 +1198,13 @@
 		</dict>
 		<key>Headers/AerisWeatherKit.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8bmy9giP0zQ8hnUxMPzw8OMnV7g=
-			</data>
 			<key>hash2</key>
 			<data>
-			aVwOAldRRiA69l8BX3LNYWy944N769J/cpjT3ZxFt+U=
+			EmM3oka+LCAcOHqzZf+LvnBDCIGpiHiBN9mrw59MlBk=
 			</data>
 		</dict>
 		<key>Headers/NSBundle+AerisWeatherKit.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SXEe1yEerI2J6uWGcgGYewiZQEs=
-			</data>
 			<key>hash2</key>
 			<data>
 			AYHJrYwftQhkYDUZ79pb9SVOApMAAFrAqZWMEvYXsl0=
@@ -1562,35 +1212,9 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sMZVyAtfNiT2dwEvgHva/NL8PKI=
-			</data>
 			<key>hash2</key>
 			<data>
 			sk4U4wCbDNQDLa5O2AE2K4/OoXYJaOaho2exFUhAwdk=
-			</data>
-		</dict>
-		<key>advisories_summary.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2vXnRqyLGVLOCJQEzA6ZYyEYWyg=
-			</data>
-			<key>hash2</key>
-			<data>
-			RoWJa0wvxXMNdTJL9Ck45u4F2N4+MoLuYcAmov3PfK4=
-			</data>
-		</dict>
-		<key>fires.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			3N/oVhfpnQD5OCFdEMpvhtqkw0k=
-			</data>
-			<key>hash2</key>
-			<data>
-			1TAI9XUwe9E1pqI1KiT/Wlg8FVHuk/8ZWIA5ou1KWAY=
 			</data>
 		</dict>
 	</dict>

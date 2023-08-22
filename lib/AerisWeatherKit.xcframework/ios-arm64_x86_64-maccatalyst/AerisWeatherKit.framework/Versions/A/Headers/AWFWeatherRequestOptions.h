@@ -6,6 +6,7 @@
 //  Copyright (c) 2013 AerisWeather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <CoreLocation/CoreLocation.h>
 #import <AerisCore/AerisCore.h>
 #import <AerisWeatherKit/AWFWeatherApiClient.h>

@@ -62,7 +62,6 @@
 #import <AerisMapKit/AWFAirQualityAnnotationStyle.h>
 #import <AerisMapKit/AWFEarthquakeAnnotationStyle.h>
 #import <AerisMapKit/AWFFireAnnotationStyle.h>
-#import <AerisMapKit/AWFLightningStrikeAnnotationStyle.h>
 #import <AerisMapKit/AWFLongPressAnnotationStyle.h>
 #import <AerisMapKit/AWFRecordAnnotationStyle.h>
 #import <AerisMapKit/AWFRiverAnnotationStyle.h>
@@ -119,7 +118,6 @@
 #import <AerisMapKit/AWFMKMultiShapeOverlayRenderer.h>
 #import <AerisMapKit/AWFMKDebugOverlay.h>
 #import <AerisMapKit/AWFMKEarthquakeAnnotationView.h>
-#import <AerisMapKit/AWFMKLightningStrikeAnnotationView.h>
 #import <AerisMapKit/AWFMKStormCellAnnotationView.h>
 #import <AerisMapKit/AWFMKTextLabelAnnotationView.h>
 #import <AerisMapKit/AWFMKArrow.h>

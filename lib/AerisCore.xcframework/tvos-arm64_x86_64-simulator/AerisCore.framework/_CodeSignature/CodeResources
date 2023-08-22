@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/AWFApiClient.h</key>
 		<data>
-		9tm6plBKKWask5jXcAtdn13ewuw=
+		JW/2Hu3K7v5tvCMgGek0Ecvj510=
 		</data>
 		<key>Headers/AWFApiEndpoint+Private.h</key>
 		<data>
-		abmsTBNTwMygflmXeqdCPhdr13o=
+		UfSHtLnJKug1NcptjjFdFQP1PE8=
 		</data>
 		<key>Headers/AWFApiEndpoint.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/AWFDiskCache.h</key>
 		<data>
-		49/k6TW/GRMLldIfXEiKzWeOhJA=
+		HjA07ltWzkqec9q3u0bzy0hnLpw=
 		</data>
 		<key>Headers/AWFGlobals.h</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Headers/AWFLogger.h</key>
 		<data>
-		/oiMKtHSjbxYp14q79YhSOaEhBA=
+		35ZsCPf97koNn1GCWwCgsSmqmWw=
 		</data>
 		<key>Headers/AWFMath.h</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/AWFMemoryCache.h</key>
 		<data>
-		/Zr/niKIznMfHloodrTKb+wx1hQ=
+		ARdj+3cypnxe5w0nelVZN/ywioA=
 		</data>
 		<key>Headers/AWFNetworkActivityIndicatorManager.h</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>Headers/AWFNullCache.h</key>
 		<data>
-		W3qNondsXRBRIp6JTDql5Pqwq0E=
+		amg9WOg4tsI5XypYImggP21LqBA=
 		</data>
 		<key>Headers/AWFOAuthApiClient.h</key>
 		<data>
-		VwIY0tS2FK85m8s6BbauY/0xwgs=
+		5OraNnThcK8hXtEC7PcE3GsMtIU=
 		</data>
 		<key>Headers/AWFOAuthCredential.h</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Headers/AWFPropertyDescriptor+Validators.h</key>
 		<data>
-		zEh+WPC9nlOw1m89lLTjGKqSHuQ=
+		6nom3Mk3uK/+YOY+5NRFzz/pVu8=
 		</data>
 		<key>Headers/AWFPropertyDescriptor.h</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Headers/AWFRequest.h</key>
 		<data>
-		TDS1rX4HC8NO5ygi9QHlVvxZI2o=
+		Cn/8yaPzHJdnVh02uv3nBAMOo4E=
 		</data>
 		<key>Headers/AWFRequestMetrics.h</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Headers/AWFURLCache.h</key>
 		<data>
-		R4/tzqtENj2cFzYJnhRU0QxT+VQ=
+		z8PLaxiSSpf6npgKEJF+ACxzQUI=
 		</data>
 		<key>Headers/AWFURLSessionManager.h</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Headers/AWFWritableApiEndpoint.h</key>
 		<data>
-		cfbu62fjPYk9lJxCyagV+xsg6Fg=
+		Gsr99ObweohqUz/Vj7xVBEELiEA=
 		</data>
 		<key>Headers/AerisCore.h</key>
 		<data>
@@ -138,11 +138,11 @@
 		</data>
 		<key>Headers/CLLocation+AerisCore.h</key>
 		<data>
-		9sZwIBzCMZg59YPAXjQMB170GoA=
+		7Urkp2E9oeaLqBuuOrjtCvVEaAI=
 		</data>
 		<key>Headers/CLLocationManager+AerisCore.h</key>
 		<data>
-		n+w81F2DrLgZ2tfM8sr7CmT5/b8=
+		JSZ1bwD9TzlNa6ZALphNf9WwO3U=
 		</data>
 		<key>Headers/NSArray+AerisCore.h</key>
 		<data>
@@ -190,7 +190,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5W8gCWb/tzXQfsdwHGrpo87ajck=
+		yN1GH30u4J9PzHAoakv+/B3eUo0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -207,14 +207,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d9A4AdHWE7mutWVI9DF/h3GcQ59fTsZ8+QS5qsllvpA=
+			6zVlXa39WsQ67bCTngv067nRZ3zz2r+twJHh9qsCJuo=
 			</data>
 		</dict>
 		<key>Headers/AWFApiEndpoint+Private.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rfFTIEbJUwgxxx5JTBm2803ya07w0CbHuWXt48Ifuq8=
+			2JfUTFxEZft2IoMCH2zudefpvdK5RdGoc44QVqnc1gU=
 			</data>
 		</dict>
 		<key>Headers/AWFApiEndpoint.h</key>
@@ -263,7 +263,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rmA99eob4sCnJsFfkvJXCN3KcnFWdg4NVc9Imo3BNHw=
+			pdyXWtKo88CTnSz4aCtCRX8bg8La3tkwtABzggpOLlk=
 			</data>
 		</dict>
 		<key>Headers/AWFGlobals.h</key>
@@ -284,7 +284,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PWk0stAwVT8X7+loaw1IZwaIAtuneD1RpXsGiYWfpsA=
+			v80GLBTWD9Vmn8geivwKVQLlbQ+vynloRvQGZLSPvSM=
 			</data>
 		</dict>
 		<key>Headers/AWFMath.h</key>
@@ -298,7 +298,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PNdxRNepINEoJcAkRWgbDMLPvrgGZaLjr4T6hEQe9HA=
+			Idzc6JuCcAy2yxTZsrWP6++L4GFbx8Y+p+GMr1M82pY=
 			</data>
 		</dict>
 		<key>Headers/AWFNetworkActivityIndicatorManager.h</key>
@@ -312,14 +312,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4uB3J8POM7HvqVcG7ruUC4vYJbamplBmW1055MTagdk=
+			pTbdhn9qLnvuVs1bqZ26ILq0WkyRki1cfFY9wRtKuik=
 			</data>
 		</dict>
 		<key>Headers/AWFOAuthApiClient.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ywb4xZpGvMlP5MUA88v9iEOgufJSHEyul8Slh9+NWnM=
+			1/4DW2ntfCuW8bt3JJGSuJsRkdiIb5xzYaTs7N03jCc=
 			</data>
 		</dict>
 		<key>Headers/AWFOAuthCredential.h</key>
@@ -333,7 +333,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iZ6yIX0TxVgSQ16p88I2oVpt3LXAxxagst0vrHoxP/M=
+			5aaDuF1jhBN99o/mTHPCCIurJBedBVbVW5PEGzulBIQ=
 			</data>
 		</dict>
 		<key>Headers/AWFPropertyDescriptor.h</key>
@@ -368,7 +368,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q0GFx0VzLBskWB6cvaf0SpKSFATKMds+UzmWCeeMh2U=
+			FtUcrRkSRZazcymcefvTn1ZUI1CS88sGqJsKdVReDtc=
 			</data>
 		</dict>
 		<key>Headers/AWFRequestMetrics.h</key>
@@ -396,7 +396,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			U2RXTu3pb35LfEiDQxQnotU3L06ZTiiiUd8CAiw3nX4=
+			iDSFlCWEO68qdjGg1Ds832WGG7eSV6ICyInynAyMgJk=
 			</data>
 		</dict>
 		<key>Headers/AWFURLSessionManager.h</key>
@@ -424,7 +424,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xmkSE8dJ1wS5+ntQWE4C683yHqFmW/brhL2s/y0+Ypo=
+			L1A+fgsZvbu5pwrylwLanB2dzNA0Tco/y1eLo83FKSo=
 			</data>
 		</dict>
 		<key>Headers/AerisCore.h</key>
@@ -438,14 +438,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l+7HUkR2RjeLJyOr7qNdMaS/Vi3wRek1R4Cke6GA3lM=
+			guqdvq8dk9BgypnIjwBzSn/pAjyrKi4VAzrAtCk9PDc=
 			</data>
 		</dict>
 		<key>Headers/CLLocationManager+AerisCore.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mv4TbCZuTNTXOx1U4TMASkQbfG2oC0mud7/T1JXnwjM=
+			c3S1+rWZM6kG9QXAgX78pbk0s8R5PWGeTd6TI5STzSU=
 			</data>
 		</dict>
 		<key>Headers/NSArray+AerisCore.h</key>

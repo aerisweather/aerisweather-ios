@@ -6,6 +6,7 @@
 //  Copyright (c) 2014 AerisWeather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import <AerisMapKit/AWFWeatherLayer.h>
 
@@ -68,6 +69,13 @@ typedef NS_ENUM(NSInteger, AWFWeatherMapLegendPosition) {
  A Boolean value indicating whether the view should show the close arrow indicator on the `toggleButton`. Default is `YES`.
  */
 @property (nonatomic, assign) BOOL showsCloseIndicator;
+
+/**
+ A Boolean value indicating whether the view is currently shown/expanded or hiddden/collapsed.
+ 
+ Use ``show:animated:`` to set the expanded/collapsed state.
+ */
+@property (nonatomic, assign, readonly, getter=isExpanded) BOOL expanded;
 
 @property (nonatomic, weak) id<AWFLegendViewDelegate> delegate;
 

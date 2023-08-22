@@ -6,6 +6,8 @@
 //  Copyright (c) 2014 AerisWeather, LLC. All rights reserved.
 //
 
+#import <Foundation/Foundation.h>
+
 NS_ASSUME_NONNULL_BEGIN
 
 typedef NSString *AWFForecastModelType NS_TYPED_ENUM;

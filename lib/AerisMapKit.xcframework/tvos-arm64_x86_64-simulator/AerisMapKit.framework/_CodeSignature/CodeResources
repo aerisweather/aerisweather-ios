@@ -59,11 +59,11 @@
 		</data>
 		<key>Headers/AWFAirQualityAnnotationStyle.h</key>
 		<data>
-		B2rgXDkb+ceNK0iFj5/YfsBKMBM=
+		al0wT2X1azz7VKfh0JruTzCasIw=
 		</data>
 		<key>Headers/AWFAmpTileSource.h</key>
 		<data>
-		VaHZaOzUmlQRxYPxDD6ZiOlpe98=
+		Ldm8w+X2dILcwIvWSgzDEmqQHRw=
 		</data>
 		<key>Headers/AWFAmpTileSourceProvider.h</key>
 		<data>
@@ -71,11 +71,11 @@
 		</data>
 		<key>Headers/AWFAnimatableOverlay.h</key>
 		<data>
-		TnZN6jdYlqhAegqPa/2dJ3saUQo=
+		3JQBbfraPTMFypLwCODWq7ePV2A=
 		</data>
 		<key>Headers/AWFAnimation.h</key>
 		<data>
-		/0f4PHg/Tqo+A+RQwszyMXqf7E4=
+		pmQUAUs1PU3BUtwkRFgLTyQsqGo=
 		</data>
 		<key>Headers/AWFAnimationTimeline.h</key>
 		<data>
@@ -83,23 +83,23 @@
 		</data>
 		<key>Headers/AWFAnnotation.h</key>
 		<data>
-		4mHsgtgh4tg5rlN8/Ja60bWtHQM=
+		1jkqZa1o8vs0/obksPh27K3adiY=
 		</data>
 		<key>Headers/AWFAnnotationStyle.h</key>
 		<data>
-		bzIIlt0AMmxZkPOywWIjgPFcl0Q=
+		WJ4WLAuK066JPQs1YRQDbvoVX4E=
 		</data>
 		<key>Headers/AWFAnnotationView.h</key>
 		<data>
-		oTcGHI+W0XoQ7mgJpVeDt6XXC7k=
+		byTwpSTHOJ7U3JQVrmqe4tdmbds=
 		</data>
 		<key>Headers/AWFAppleMapStrategy.h</key>
 		<data>
-		5qg5ITQyE4IWMMtNRNpfLkP4EvA=
+		TEgG4jibHbfE82CupbmLQYVn5Ic=
 		</data>
 		<key>Headers/AWFBarLegend.h</key>
 		<data>
-		w0IJTHtsxHwC6jv0hJmMjzx9S5M=
+		0Tu0WBt2d3Y1jxtiR0nLSaQ2ulE=
 		</data>
 		<key>Headers/AWFBaseMapStyle.h</key>
 		<data>
@@ -107,23 +107,23 @@
 		</data>
 		<key>Headers/AWFBasicControlView.h</key>
 		<data>
-		jNF3MSZpT9tqSXn7WkWpuR+KQ4Q=
+		xWFRUk9EMz54dNxai0aDWaes718=
 		</data>
 		<key>Headers/AWFCalloutView.h</key>
 		<data>
-		tJGHrKTMqwipJJ8zWbd5zMyLsdA=
+		nI89LMueJ/Y/7Yh2MV3/rgmHYf8=
 		</data>
 		<key>Headers/AWFCombinedSource.h</key>
 		<data>
-		G6NUOxoQxg5klkcD+FJWld1aPXE=
+		IDderqSJFidOz3GvLsERbyLkpdY=
 		</data>
 		<key>Headers/AWFConvectiveOutlookPolygonStyle.h</key>
 		<data>
-		Or8HmgLxlq+mLnFWC7iBl3KaQts=
+		uf+mb1f6XtQiMX208C+A2u3D5Bc=
 		</data>
 		<key>Headers/AWFDataAnimation.h</key>
 		<data>
-		PTYBLES7gfbpJP8VE0uU29mWLtI=
+		xkjPdLewDTGk4KBrUClL/LEGRPk=
 		</data>
 		<key>Headers/AWFDataLoading.h</key>
 		<data>
@@ -131,7 +131,7 @@
 		</data>
 		<key>Headers/AWFDataRepresentable.h</key>
 		<data>
-		tlBDNm1YZW73sw3mtBfMh2MnBfU=
+		YuxJMWw5AkUWAdWtdOHTW1LJsv8=
 		</data>
 		<key>Headers/AWFDataRepresentableStyle.h</key>
 		<data>
@@ -139,27 +139,27 @@
 		</data>
 		<key>Headers/AWFDelegateProxy.h</key>
 		<data>
-		ImXug/bFlwR0sRgbFnJ0wY86KFQ=
+		utYgTuMmP3RHRtP2oeR1/ePkrO4=
 		</data>
 		<key>Headers/AWFDroughtIndexPolygonStyle.h</key>
 		<data>
-		SmoOacpVxUAu/S5GzpKCkhaCVZE=
+		RNaNCY1/+v+jfStlQACE9RBRDC8=
 		</data>
 		<key>Headers/AWFEarthquakeAnnotationStyle.h</key>
 		<data>
-		UxCesuq+mgr4wXJynDnF3ipL6Yo=
+		d1sFgcdAsU8/KCDATvWJkoq5QAQ=
 		</data>
 		<key>Headers/AWFFireAnnotationStyle.h</key>
 		<data>
-		8e0ZZpelKwQtrQ0qO4ZQegIX2zA=
+		1jsyKWvCEeHeCgqmneVtBqeEuVI=
 		</data>
 		<key>Headers/AWFFireOutlookPolygonStyle.h</key>
 		<data>
-		0L6YyVK/1RaDXnRtsRMj0SZ6N58=
+		sze2yT6N30N6Qy3XsnTdrTrLLDE=
 		</data>
 		<key>Headers/AWFGroupedLegendView.h</key>
 		<data>
-		Ecz7OwRl7xpyYnr9iVb3iXhCIhQ=
+		6lMvZQ/Pf0SVdriR3pfJJF3mnRk=
 		</data>
 		<key>Headers/AWFGroupedStyle.h</key>
 		<data>
@@ -167,11 +167,11 @@
 		</data>
 		<key>Headers/AWFImageAnimation.h</key>
 		<data>
-		KIDuMQ8yobR2GuwW9Eu92Hbo2oY=
+		eWgaqd74qfXcHt8qTIhF+8QfYuw=
 		</data>
 		<key>Headers/AWFImageAnimationLoader.h</key>
 		<data>
-		FLNkYv00ubqSkvAGEZBrYrvx+BM=
+		Stxa0Kzy8M3TYJ556AcKjiEzhaE=
 		</data>
 		<key>Headers/AWFImageAnimationProvider.h</key>
 		<data>
@@ -179,15 +179,15 @@
 		</data>
 		<key>Headers/AWFLabelSource.h</key>
 		<data>
-		lQTtbeQrMhAylYinIBuTEKFloUE=
+		UPgw8mbUB3176o/BA7+HXS3Q3DI=
 		</data>
 		<key>Headers/AWFLegendConfig.h</key>
 		<data>
-		HI/2grrNcWii4lHmVYXlbNcKDPI=
+		2nvtTn003DekGPmv0oJTSbzXKyQ=
 		</data>
 		<key>Headers/AWFLegendItemView.h</key>
 		<data>
-		uzZGTAroMTmNqLzdKYcWpii7PeU=
+		L2v2GuYGP9Uww1u7oYdjTNJpCzI=
 		</data>
 		<key>Headers/AWFLegendMetadata.h</key>
 		<data>
@@ -195,131 +195,123 @@
 		</data>
 		<key>Headers/AWFLegendRenderer.h</key>
 		<data>
-		cIZ/Q5b5K7Mu5ZLIe8RJ6An4GsQ=
+		BDaldnXoG8B6pOAbSKOvj+YUnVY=
 		</data>
 		<key>Headers/AWFLegendStyle.h</key>
 		<data>
-		5NJB5hbWdYqvHr6O0RFhgApt7zo=
+		vqYkH4BC/HKdXmUydePmaEqCZnY=
 		</data>
 		<key>Headers/AWFLegendView.h</key>
 		<data>
-		4uv3hPFmMxP72ouYmLftqEidDsA=
-		</data>
-		<key>Headers/AWFLightningStrikeAnnotationStyle.h</key>
-		<data>
-		LFpN8dmRozUjLpxUL7dFwCeu17A=
+		ZRnj+UlnSZirvD6TchMV6ctRk04=
 		</data>
 		<key>Headers/AWFLongPressAnnotationStyle.h</key>
 		<data>
-		PFsvNGc+2lehV4sgiVu9PwKiumI=
+		zxmMH6X9WNu+L/ehG0l8TXDq1Wc=
 		</data>
 		<key>Headers/AWFMKAmpTileOverlay.h</key>
 		<data>
-		h5GU1FvMvsmkE7CMWpt8NEGCRTE=
+		UbGjhSGJ7WqKnB2O8hQuXUb2fho=
 		</data>
 		<key>Headers/AWFMKAmpTileSource.h</key>
 		<data>
-		op5Gwyo6xZDc05GtQzy/tMn7V9Y=
+		ml4QmdLPhfQmjrFjN0YNpVlmT3I=
 		</data>
 		<key>Headers/AWFMKAnnotation.h</key>
 		<data>
-		0HL3OOvjeodBfVD0Q4rdh59vLYA=
+		fuoFhcT33bHejWkEVTZmijUmZUQ=
 		</data>
 		<key>Headers/AWFMKAnnotationView.h</key>
 		<data>
-		wogsFN4cA6Et3iNPse0N9Zu+ZkQ=
+		/cSFXGs8ihgPmjH1lAj4CVnIBsg=
 		</data>
 		<key>Headers/AWFMKArrow.h</key>
 		<data>
-		Vgyz85ZEgrzTf9tDLsqVPNz2H9Q=
+		6f/Fb3w/0XcZOx1k468/IQPGvBU=
 		</data>
 		<key>Headers/AWFMKDebugOverlay.h</key>
 		<data>
-		F4q4zZZe6Cx1aVl7ggLafOY+8tA=
+		P+1lByDb8X7DEIIz8HDi4tw4K6k=
 		</data>
 		<key>Headers/AWFMKEarthquakeAnnotationView.h</key>
 		<data>
-		s91EbR0oyU3dIi/eATIhdN3ezak=
+		GXOOKdzq7uYheGDDcOI9zSZ8vZc=
 		</data>
 		<key>Headers/AWFMKImageOverlay.h</key>
 		<data>
-		8kGBo36xt5y+0AggrLGD8d2VJjM=
-		</data>
-		<key>Headers/AWFMKLightningStrikeAnnotationView.h</key>
-		<data>
-		JhfTlQqqGfq1fzFBx8CAyfnckUA=
+		LZAL1tG+tUkN7GeLF+24L7KLMsE=
 		</data>
 		<key>Headers/AWFMKMultiShapeOverlay.h</key>
 		<data>
-		w4dnbSDc39VZs0yQ46qAxNcYNR4=
+		zpSJ8c81lLkWzWyX+11+v08A2sI=
 		</data>
 		<key>Headers/AWFMKMultiShapeOverlayRenderer.h</key>
 		<data>
-		HzvYtcmi4P3Eh/UXs7thBL8XUog=
+		vODCoU6Zm2eXQrK2grFKGHdDyj4=
 		</data>
 		<key>Headers/AWFMKPolygon.h</key>
 		<data>
-		fhyJMjqqSn6doRB4DXp3QhefBVo=
+		h9yZZwUF5JenIFaM9suO0zmtQrI=
 		</data>
 		<key>Headers/AWFMKPolyline.h</key>
 		<data>
-		iAkqF8OqG/XIHoF+VVkyskJOw1w=
+		1eRZAVXkqGTAgaF6VGDCdkq171Q=
 		</data>
 		<key>Headers/AWFMKRasterSource.h</key>
 		<data>
-		oyfvm5ompw81aYcLDMGZC73l1Y0=
+		7LAFHy4VsHmwP9l7TbY/tzb76yE=
 		</data>
 		<key>Headers/AWFMKStormCellAnnotationView.h</key>
 		<data>
-		Whk77dfvs0juntPkDrATMp85on8=
+		zzlbp77Fu3B/D1pG/wHo2mmMlmg=
 		</data>
 		<key>Headers/AWFMKTextLabelAnnotationView.h</key>
 		<data>
-		hfJnBHHWaPtotscHq89f3gC9AFM=
+		ws/DqOuwz4bEHYayL3ajT/F7zGI=
 		</data>
 		<key>Headers/AWFMKTileOverlay.h</key>
 		<data>
-		/L3340fpjjV+mbFA3yUuT04Zqrk=
+		TjH5P/txtcQb6r58qy7+6CGcsRQ=
 		</data>
 		<key>Headers/AWFMKTileSource.h</key>
 		<data>
-		CChhamTmcjLDhKd0RlSAMYh+FC4=
+		W7MH6Ie4jLv9+WUA9a/AABnGaF4=
 		</data>
 		<key>Headers/AWFMapArrow.h</key>
 		<data>
-		2mIZk6Ae6+zzM25kirPzWq1artU=
+		3KdZEDNuKR5K4fLmcIfYzdpp6Ko=
 		</data>
 		<key>Headers/AWFMapCallout.h</key>
 		<data>
-		vPt0qgkBMu5NyXe6CCTQoNm2aDY=
+		LydXXxlJ/nwSauVw/zJui3WFboo=
 		</data>
 		<key>Headers/AWFMapContentSource.h</key>
 		<data>
-		62G+8edLKiAURPyA6ENE4lHBN94=
+		9c4OaBbo3qCJj16mS2WgTH0LIZ4=
 		</data>
 		<key>Headers/AWFMapContentType.h</key>
 		<data>
-		gMN8hR8l12ccAzlaor0GvZqdf1w=
+		G+Y1P9kdd2Rz6489irqW0X1P0Es=
 		</data>
 		<key>Headers/AWFMapControlStyle.h</key>
 		<data>
-		U3U/j15Qzh1qe35HcudDWJtxw40=
+		ZwGHvr3iS50Q2VG3Bv46AWIEbgo=
 		</data>
 		<key>Headers/AWFMapCoordinateBounds.h</key>
 		<data>
-		JeP6ZPPOBKABVZUsK6bz+2u/g6s=
+		3TKJL4FmYNB+RjNxf00e94jDVTk=
 		</data>
 		<key>Headers/AWFMapGlobals.h</key>
 		<data>
-		m6/6vlJ3FV+s4MRJe9fNqM8VtcM=
+		ROiFAam16Nes5T5k9ED6rL8Olig=
 		</data>
 		<key>Headers/AWFMapImageURL.h</key>
 		<data>
-		kPTNwxXlf8Izweo7iHa7hpu7cfg=
+		NP0bdrc6JZ3BkXplihyXUZXLtok=
 		</data>
 		<key>Headers/AWFMapItemStyle.h</key>
 		<data>
-		IpG5NVO1hOR5wpdoaKeaWPm/0Oo=
+		YpWLhcvMJ585FAPY0zYLIy7PIZg=
 		</data>
 		<key>Headers/AWFMapLayer.h</key>
 		<data>
@@ -327,23 +319,23 @@
 		</data>
 		<key>Headers/AWFMapLayerOptionsViewController.h</key>
 		<data>
-		7GjGGVafh/jQwm/pHF5avLWkQ4I=
+		LGDBuv8S8iwDm5JzA2PVGVOswVY=
 		</data>
 		<key>Headers/AWFMapLayersMetadata.h</key>
 		<data>
-		n8vByeeyZg2HsZp1dtgHMnGDcfE=
+		nrdUkaMwAZ5LGUsl/LVb/zSjQ6I=
 		</data>
 		<key>Headers/AWFMapOptionsViewController.h</key>
 		<data>
-		yYADMqr53dhF5acVNR8qEKIJCTc=
+		MsM+wnR7z8qtu74XpTHz5w26CY8=
 		</data>
 		<key>Headers/AWFMapOverlayFactory.h</key>
 		<data>
-		fkUZoBqKIRI9KHXZHGHePf0ZHf0=
+		CaQhm9e3X2ZddP9hvtrY+8lSB4Y=
 		</data>
 		<key>Headers/AWFMapStrategy.h</key>
 		<data>
-		yGkO5IaT2o8NzAUOK67AZ1wTbus=
+		AiAfVYvQNssP+j+lNY6dw4wjE+8=
 		</data>
 		<key>Headers/AWFMapTileURL.h</key>
 		<data>
@@ -355,11 +347,11 @@
 		</data>
 		<key>Headers/AWFMultiShapeOverlay.h</key>
 		<data>
-		u5AFG6TniWwkXfuLAPRZIFelj7E=
+		jNZxOOYrpeHZdWYLVTWe28lT1x0=
 		</data>
 		<key>Headers/AWFObservationCalloutContentView.h</key>
 		<data>
-		Q6/5+UGbDClt6Drmyt165HBKTLk=
+		wLJBQBFDB3H6I1bbBBrzkt7DGps=
 		</data>
 		<key>Headers/AWFOverlayMetadata.h</key>
 		<data>
@@ -371,27 +363,27 @@
 		</data>
 		<key>Headers/AWFPointLayer.h</key>
 		<data>
-		DCct8nohwdCg6MPbEMUALayzqdI=
+		YrwSOMUcUp+vJ/dlL9idBojCjcU=
 		</data>
 		<key>Headers/AWFPointLegend.h</key>
 		<data>
-		SVX8TieppqPj8Q6a0Nxc/Rne3G8=
+		/ntR/+upfyeH0TvYsI0GkmUijk0=
 		</data>
 		<key>Headers/AWFPointSource.h</key>
 		<data>
-		aRbsh8I620kUfFjIMssMfQDoiyk=
+		DPFUCIbAUagBGQ1a81Ing8Fk1C0=
 		</data>
 		<key>Headers/AWFPolygon.h</key>
 		<data>
-		9ALe2nuo3DRkkfB+sMEARa0etNo=
+		pJqjKL7tIfizrRjxXov2ed/FWD8=
 		</data>
 		<key>Headers/AWFPolygonStyle.h</key>
 		<data>
-		BwdQRn/vTwe/NDHAoEatdupbKzg=
+		OO2ofdEDXPlhTo2K9WLmsOEDx/I=
 		</data>
 		<key>Headers/AWFPolyline.h</key>
 		<data>
-		B7LaKfKKv2e3Q+kFMD3eml/9NFw=
+		qCbdPz5liOGOYb1kNH9gvCC5rvI=
 		</data>
 		<key>Headers/AWFRasterBlendMode.h</key>
 		<data>
@@ -399,15 +391,15 @@
 		</data>
 		<key>Headers/AWFRasterLayer.h</key>
 		<data>
-		8Q4okDED74oy3OttrrKDnNbJRgc=
+		T6jppUCbj94/YVHKnimZrj/jg70=
 		</data>
 		<key>Headers/AWFRasterMapLayer.h</key>
 		<data>
-		k9m+JU0Cq2fh128y6BVVZE/zyFY=
+		ufv0Kd3xAEtnz3WcPYlzWesaQ3Y=
 		</data>
 		<key>Headers/AWFRasterMapLayerFilter.h</key>
 		<data>
-		NI/bZnSt/iY7l99KEiGyR0ocTDo=
+		Mabmj5Bw2Piz4uCjUBInPpl3VzM=
 		</data>
 		<key>Headers/AWFRasterMask.h</key>
 		<data>
@@ -415,15 +407,15 @@
 		</data>
 		<key>Headers/AWFRasterSource.h</key>
 		<data>
-		crNFYQHZ8e0i3Zkf/K15seoSQ+8=
+		Us541c8lb9Vl1W0Viu1P6x5YCQs=
 		</data>
 		<key>Headers/AWFRecordAnnotationStyle.h</key>
 		<data>
-		X0LLHj0uSzCsNvwLjOoq3+oHKS4=
+		NoWWfkpgld27hlwgi/TFS311csc=
 		</data>
 		<key>Headers/AWFRiverAnnotationStyle.h</key>
 		<data>
-		shb+dZfWy33WvIqRmjhSe4pS3uM=
+		y55Occ+zIvucNwjy3qBsicTq5i8=
 		</data>
 		<key>Headers/AWFShapeLayer.h</key>
 		<data>
@@ -431,15 +423,15 @@
 		</data>
 		<key>Headers/AWFShapeSource.h</key>
 		<data>
-		VVYD8H5Hblwyi/nd5R5tOOGEV2g=
+		PFeLkODCKUT5KoBPzMFKnwvNvWQ=
 		</data>
 		<key>Headers/AWFStormCellAnnotationStyle.h</key>
 		<data>
-		2vhekotiBj+d8QkVUbdJjSiCBiQ=
+		0P+MB3tOXMRmK3Sj3hp4bn5XwGU=
 		</data>
 		<key>Headers/AWFStormReportAnnotationStyle.h</key>
 		<data>
-		aAaXjsGOgVCEm133qzY0uSYtJsk=
+		rmx9QThuOC7smKX8Q+L/LXUU7os=
 		</data>
 		<key>Headers/AWFStylable.h</key>
 		<data>
@@ -447,23 +439,23 @@
 		</data>
 		<key>Headers/AWFStyledMapItem.h</key>
 		<data>
-		U+kr/mvr8DytxiGkBgXswTFgTu4=
+		CGdAmLlPdg4gnQxF8vz5+LuRVJY=
 		</data>
 		<key>Headers/AWFTextAnnotationStyle.h</key>
 		<data>
-		svUunwEaAk3IVIy+KU2u3HB4kGY=
+		na6DnxJGEICMx6dAf//jNsu2Sp8=
 		</data>
 		<key>Headers/AWFTextLabelAnnotation.h</key>
 		<data>
-		RyZFqKIECqA2JjgpMnQp4HN9S20=
+		07UvRpeffcngvggj+8JyNvjwfFA=
 		</data>
 		<key>Headers/AWFTileOverlayPath.h</key>
 		<data>
-		gkezU5oejvD7jBa1RlzXlB/xfoU=
+		vA0GTR7sVnIXx9FeXMyRZ3PevYE=
 		</data>
 		<key>Headers/AWFTileSource.h</key>
 		<data>
-		fq8rG0f2H92JSgb0j4ht/jG4ifQ=
+		+rTXtXLT9dsPOOd3nHn1WVcv0HM=
 		</data>
 		<key>Headers/AWFTimeDependent.h</key>
 		<data>
@@ -471,27 +463,27 @@
 		</data>
 		<key>Headers/AWFTimelineView.h</key>
 		<data>
-		8xYX/NdunXpcz1DO+odSY3/CZKM=
+		rmfTGyPFEoFKNS0NCt3womj0DrM=
 		</data>
 		<key>Headers/AWFTropicalBreakpointPolygonStyle.h</key>
 		<data>
-		s1OuWAVShMQZp0lzmpu2HyZwlC8=
+		pCJzvxBzpu1RMmerCPewd1ZbsoI=
 		</data>
 		<key>Headers/AWFTropicalCycloneAnnotationStyle.h</key>
 		<data>
-		SMhxxpi75ERBkckqZrT3it1QU+o=
+		V7+aL1nHrm08tpMvfS1Pk2VW0xE=
 		</data>
 		<key>Headers/AWFTropicalCyclonePositionCalloutView.h</key>
 		<data>
-		hcWZSlmM156DpImxya18fPrkIPg=
+		mNxm6q3iWQhSNZ9Nm/K+JAXG24Y=
 		</data>
 		<key>Headers/AWFTropicalSystemAnnotationStyle.h</key>
 		<data>
-		+rCKg8lAerra0KksS2CNs1mSjyI=
+		tkSXahBg1R91c9apTUH6lZnZVuw=
 		</data>
 		<key>Headers/AWFWarningPolygonStyle.h</key>
 		<data>
-		1HNnpZv1R3tqTwE8gXEi9xHBrYg=
+		swhoJT9UlXwpvWuHdoRnn3el0as=
 		</data>
 		<key>Headers/AWFWeatherLayer.h</key>
 		<data>
@@ -499,15 +491,15 @@
 		</data>
 		<key>Headers/AWFWeatherMap.h</key>
 		<data>
-		YIOVnxBl4fjtyoo6GV/4zEmLmuw=
+		trjZKM1QuaiBgg6MosycQ+GGPvI=
 		</data>
 		<key>Headers/AWFWeatherMapConfig.h</key>
 		<data>
-		t2eeQU54vtr3VzD0kc4c8ovW4ro=
+		7J9S8H4CcHyt+KeQhg87GEKgaC8=
 		</data>
 		<key>Headers/AWFWeatherMapContainerView.h</key>
 		<data>
-		L/t9S7Z0EHDurkWrhrsvp+Vhkbw=
+		V5KDMx0swyOYjUS67uZY5sc5vNE=
 		</data>
 		<key>Headers/AWFWeatherMapDataSource.h</key>
 		<data>
@@ -523,15 +515,15 @@
 		</data>
 		<key>Headers/AWFWeatherMapViewController.h</key>
 		<data>
-		LWU1xcScaz4Zm1N9lApfU1Pt6D0=
+		yHLpsMfwdPtIqLidhrw2z01jzsQ=
 		</data>
 		<key>Headers/AerisMapKit.h</key>
 		<data>
-		GjZbNjepRaEhGDPz7RaYtd/+vfY=
+		kdta9XM1cNYLoy/IvTL/wad5a4g=
 		</data>
 		<key>Headers/MKMapView+AerisMapKit.h</key>
 		<data>
-		7QD67N6iV3h8fz8q9r8VEuzEtDA=
+		nM5tGm+/zjAUn76Z88fn+AU9E2w=
 		</data>
 		<key>Headers/NSBundle+AerisMapKit.h</key>
 		<data>
@@ -539,7 +531,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WQGAnnlkiNMpO2xfbU1EQUxvbZI=
+		YGE+4yeFFT1vvSccdkt0FEgXiWY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -638,14 +630,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pb3jqWuTNngUxtjvY+p+MX8hVQNoRNjiS2AmHZE+N1g=
+			VykvR91eBO1dU1x53d0tsQ4dr1hKgfvv9jQOVZO5JsA=
 			</data>
 		</dict>
 		<key>Headers/AWFAmpTileSource.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sNvHs5MrrAK+RkdSI6QRSWN0EtxU7Ya6SiZQTGbFtYI=
+			3ms+VvyWKQmXjr1TTOinIsESC/UdgUgyTX8kaFA2T7k=
 			</data>
 		</dict>
 		<key>Headers/AWFAmpTileSourceProvider.h</key>
@@ -659,14 +651,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d3NstoEnCchuiKi136M1i3994xxgaBnuW94BKGmBjas=
+			eMw7JXJYF5TDZ0HKXIK3C5v7VJ2ccOzVbOPBuZM4OCs=
 			</data>
 		</dict>
 		<key>Headers/AWFAnimation.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wsJmCn9mjRyyyixYqfbUNvWbuMMX0Y3pUEQu+doNatM=
+			EVizlsw4vrjodK7Qqy6quhdjzdvH+TxnBjtHWFGrK9Q=
 			</data>
 		</dict>
 		<key>Headers/AWFAnimationTimeline.h</key>
@@ -680,35 +672,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PYCndGjuRCQDuHwboODyazbRHFUcU55e9a/u+S85vro=
+			jaXzwNOhoDr+tNmm8+uQZ0J2pDluFcMa3Vs8AgryXNQ=
 			</data>
 		</dict>
 		<key>Headers/AWFAnnotationStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9YGcRwSEVmqfFa8a6dQDlWEH8j8F7hcPzQs1PekCMAA=
+			TgJsYE2KeUKthuM4u3n1dQuUmlspIe5CAWwxSNSh/jI=
 			</data>
 		</dict>
 		<key>Headers/AWFAnnotationView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ylns49G0kj6VAvifQ0RB3kQfaV5zJglXYrr8GQMjhkg=
+			xd1CaM3aLMOOiJ4RmguVr9MtTe+Q0ApKdDytuGwWELQ=
 			</data>
 		</dict>
 		<key>Headers/AWFAppleMapStrategy.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p8vhDp9Z3nCp4xDvdrz9tjCWNcVSN0yW6PHocFnzWfU=
+			MAYfiVde6h8vhhj+Z71qt8VCRa0ni2ssyG9gkGpsmqE=
 			</data>
 		</dict>
 		<key>Headers/AWFBarLegend.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4ITcST0ZCCYOHU2W8ABerHfFY3RX/JFvDzxNOZ7Dwqg=
+			Aqmm+6ksMDYeAofHGel9s2SXofGRKvftcmRMGTXrzt4=
 			</data>
 		</dict>
 		<key>Headers/AWFBaseMapStyle.h</key>
@@ -722,35 +714,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qwJwSdy8PzjJsSKCwSzKv5PUx5XGDPNbNSdF9Adqh+U=
+			M4G6m84YP5NnJV4+cT90AgQUaltjX/P2AVaDNdYm4XQ=
 			</data>
 		</dict>
 		<key>Headers/AWFCalloutView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LMP4xBzBuBnGkiKmB/aMZBjjtHbFtH3DE7YCIX4ZXgM=
+			fP5BzTxQ4MFal7ok4OUI8BE75V5qXZqyltAyn2bwwPk=
 			</data>
 		</dict>
 		<key>Headers/AWFCombinedSource.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zo5AML/calH5ZAtdZz7It6KzNUpKF+Axm7sCfYim0EM=
+			CDZihqoWepVlvdujU/Tlm3ur2YpUGV6LyMRIiaLdjRU=
 			</data>
 		</dict>
 		<key>Headers/AWFConvectiveOutlookPolygonStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZvxqaRZHELvkOeTibrNzJljJjl1sJmTdUr/w23NaRZw=
+			y80mFSiyM+B7gM99N9q3lgccIqDoqicC2xJg5hA/QYA=
 			</data>
 		</dict>
 		<key>Headers/AWFDataAnimation.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			12uN17fLpcwXu9y0ExkpSuRGYy/zs1mIF9NeNLwAlUE=
+			BdgTmALJ3Gcddm1kOduabrjPvqLqbGEmlCccvp+zrKc=
 			</data>
 		</dict>
 		<key>Headers/AWFDataLoading.h</key>
@@ -764,7 +756,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rm4AumeVwVEimuvcpy+dWyQurp4natpuHsncJnpOLsA=
+			A35EUrKX4oIcIQXi/z0oSyJ98HSoR3cyEJS+/0dSOY0=
 			</data>
 		</dict>
 		<key>Headers/AWFDataRepresentableStyle.h</key>
@@ -778,42 +770,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0PF7qUFfaomf4U57VtdcIZCuzCMvrsBBNdbLiTPUUEg=
+			bBNrWlAZXm1C6/hsE7boZ/zwI+zaJgHAHjXu2b4vueM=
 			</data>
 		</dict>
 		<key>Headers/AWFDroughtIndexPolygonStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c15NudWs3rWTIiAXAxFAHQ90xfOaaDHtRe4eQUbVFx4=
+			KsnnwrDOcmvpkn93Fm/kflasziqZnvaerSfE52zPgfc=
 			</data>
 		</dict>
 		<key>Headers/AWFEarthquakeAnnotationStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uCt3HmCVnBVk+11uQ8R2/0R7xpdBMmQKOEkbuvuLLAs=
+			AuXx1Ya29C8YVt7WjHC1DJzsAjPtBmIIAOUOSUxtZ3Q=
 			</data>
 		</dict>
 		<key>Headers/AWFFireAnnotationStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WQT27hrlaBGRjFzEsgqkMRuar+RN/nbyLm2sDnCdLCY=
+			KPoOIPFY9zUSH6RFXdMRnsujajMcP64QQj6Vp8ATmNQ=
 			</data>
 		</dict>
 		<key>Headers/AWFFireOutlookPolygonStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jH31yxE3mW3JdH1KOJJOSzE68rOfm7Cnwlnyo9/fg6k=
+			zX6TAnFIw5I6cZiQ9NbO2MSBMiJ63GzIfuwmImnAMnk=
 			</data>
 		</dict>
 		<key>Headers/AWFGroupedLegendView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XhWQ6viiLqNW8mc+5q0eqJHfVUMI9MrhBF9XYALRNE0=
+			7+X0q4RjiBIwUcMRPMt9LQPr+J1/VJXJiWk63EpSMx4=
 			</data>
 		</dict>
 		<key>Headers/AWFGroupedStyle.h</key>
@@ -827,14 +819,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4odo3sORp369MnbYBLCR1t0nvpRLLR965W2bNEkzKAY=
+			dQMAmrkkfj+iC1GWyx2lYUjUFYX/vzVpSMtFlWgBgR4=
 			</data>
 		</dict>
 		<key>Headers/AWFImageAnimationLoader.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pymhYsOt3YqmiMtp/babOpVGZt8UbeZCoO4B+2SAgT8=
+			I6KcygvGjIbVhio7x+tJ+QESqxTPeEQkhyp6361qWO4=
 			</data>
 		</dict>
 		<key>Headers/AWFImageAnimationProvider.h</key>
@@ -848,21 +840,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sBKR7BJhsCALKaJqjtpgl6a1V5Miwr1bRp9RF5B7fdU=
+			Iz8vAS8AT2TYjNixgX2FvaawkkL7f4p/MArsg3+iqVY=
 			</data>
 		</dict>
 		<key>Headers/AWFLegendConfig.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P/woUgR8x8Zsk+9Y8mm/oQq24ftGDjHKEB78AX8ycoE=
+			SNlcjztTvnSSNlWqkZSKqvfT3RgAWMOKihWjcAFGgmI=
 			</data>
 		</dict>
 		<key>Headers/AWFLegendItemView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ceAgkuCovK99fwJjhmvpPy7zrh0zSo+L8mk0/KEJNjw=
+			4V/niNpsvCnRZgG91nYmsFTb67abc17xhD9gAe9N1uo=
 			</data>
 		</dict>
 		<key>Headers/AWFLegendMetadata.h</key>
@@ -876,224 +868,210 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OXxMIMikEe4wGjJ679e7DD/GT8eI+yp6WO06eOMgnP4=
+			DBUtmmB5AopxemVNpWON+MK++gCtm0pJcfv4sDVgyTs=
 			</data>
 		</dict>
 		<key>Headers/AWFLegendStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RqLwaul4/URZLFCzcp2fAOcM406QtnbuSMP87puDkO0=
+			bcoKdyZOXN0vkdGjBQDiJLm0/+L2iurOyHxKBibnqug=
 			</data>
 		</dict>
 		<key>Headers/AWFLegendView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PIPmdD+PgWb8B9yKkrEcu6SI3APDyeBJpJwmtElUNPk=
-			</data>
-		</dict>
-		<key>Headers/AWFLightningStrikeAnnotationStyle.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			CFMJ/zUkIMAYnnB2CGXQ94i6bN38jmRIa9gzyxASTS4=
+			NOGyv4nftT/zqxDsd1gheb1CD5GcOL+/GvUhjP3lvRE=
 			</data>
 		</dict>
 		<key>Headers/AWFLongPressAnnotationStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kSy5c5FUErrzsC+RgZtDhEQSjSxosJtrIhQHdxV2kgo=
+			+nz5fPNpoIbtRQ98UFrRcDospGft9HlDHyE2EmQcR4c=
 			</data>
 		</dict>
 		<key>Headers/AWFMKAmpTileOverlay.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4oxFAwmD9p3NIcEylyuIG2091kTtPxGfj2KnZmq/WCk=
+			wlU0KuuDGzKGgWdI0TDdZ6iM5Geb5GB9QMc4t7dS2YE=
 			</data>
 		</dict>
 		<key>Headers/AWFMKAmpTileSource.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aCB8huo+T3REjUeNsEmvs7DWRfGYCjsY9heQJ17snfQ=
+			DLlXBIAT3Un4A9z2KPkQzfQF02InlR6yHq0QiOuwN8w=
 			</data>
 		</dict>
 		<key>Headers/AWFMKAnnotation.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/1Mv5WWARk1vgsPkSWAH3IYaYeTauurfnyuslh5491o=
+			63LS4URyhbDaIF6nInwvJx6lwwqwivkJsGXEF30fNik=
 			</data>
 		</dict>
 		<key>Headers/AWFMKAnnotationView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ac1ssU7GwRPZscZi0E34844+3BMYEQoFmnfB0ez9GXI=
+			h3KHH+Jf2jS17iZkl73Emoi/0xdD3d8hoCKQ7nNJ6rQ=
 			</data>
 		</dict>
 		<key>Headers/AWFMKArrow.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R7PEXUxOsPwgsN2ZMWS2cwct0uTXiB3/oUalIOntH2A=
+			BqEWM5oOrQbluZBHLJvIX+/yGkACYvayutXFBLfGyK0=
 			</data>
 		</dict>
 		<key>Headers/AWFMKDebugOverlay.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KQgbnaP1x9xP3KROKvrlA211nsskFTZBZpI1xyaTL1k=
+			qtWbY0eSA+Sc/TCVmxxBv2kZ45KaWyFz4kzTfPz+QN8=
 			</data>
 		</dict>
 		<key>Headers/AWFMKEarthquakeAnnotationView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YOK2jc2rhFDpPLWbSD3PTuVkEo3G/7JPW9RJFdzmfDY=
+			Zyu1OoiCzY5hczmc02E0BNFgLoULUbSgMmqLRju2J9w=
 			</data>
 		</dict>
 		<key>Headers/AWFMKImageOverlay.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MVue93+NLsS5SlIVfnV1AwOSqaujw/ZmHxRRA/CLocs=
-			</data>
-		</dict>
-		<key>Headers/AWFMKLightningStrikeAnnotationView.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MGK5iC2L3/FgEOmiJk0vqLF2VCavdIzzugc4M4SncF8=
+			NitkrTqmnE/iY6uLb+P6AISH2WLBulC9ZA3gKalShVk=
 			</data>
 		</dict>
 		<key>Headers/AWFMKMultiShapeOverlay.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7jcDjXjrPLW3r0Grq01Z2imQQEcsdJs3fvihxc4oM2s=
+			uWU8WoDqRHzn9LOjREh6z77U5ZCSm3UboFd/XYWTpUE=
 			</data>
 		</dict>
 		<key>Headers/AWFMKMultiShapeOverlayRenderer.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yZM63pNGxTnxd3VfmQiIFOQ7b/wB9XV2eZnFD/GlIeQ=
+			X6twZn5pXnJbMEoPVWE8vXjBa1Vx1f+l3GnvjLYgEBI=
 			</data>
 		</dict>
 		<key>Headers/AWFMKPolygon.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qZ3DbR/CuyHV+tgv7aVUl9LbwsAG8MnISI6MnjPW9QM=
+			0Y1W9taDNDUcUNEK5eJsaVSNjXFr4uPkRDlVQ8TgFlg=
 			</data>
 		</dict>
 		<key>Headers/AWFMKPolyline.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gGajnQxj3eeLQVQRCHbcOMH0ZuetS2NJ29MeQXX4fJU=
+			giaHasMmSTjob5hmd78hZTQDfwjTVmOP4nnMDRWsrx8=
 			</data>
 		</dict>
 		<key>Headers/AWFMKRasterSource.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VuR1yN6EQpUGli0t5GiOkUVq8oFiw04xvKBA2/8tb7g=
+			Itx3DTWBjD+04RzmM4s6qUHe36Vx0tEWJUF4IgnD7kw=
 			</data>
 		</dict>
 		<key>Headers/AWFMKStormCellAnnotationView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9WaKd8+c5PKeFEWI5KnaZ13GS5VzWru+l1FzG46AIKQ=
+			LYI++4KVJLdRsChvjxzbhOJqyeQnVTB1SxATDsExu3k=
 			</data>
 		</dict>
 		<key>Headers/AWFMKTextLabelAnnotationView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P0/EKAxjKAW4ookjJGl4sgjVT/NUw6bE69leBEch1YA=
+			rGxCxwopP5Ye/i474toQBJ7xT8SxD49ivr8Ky5NfrHk=
 			</data>
 		</dict>
 		<key>Headers/AWFMKTileOverlay.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WzQHt3aaplk4XHKUOdQxn44gLCg8jzIN4xPRNOEb9cs=
+			ohK2QCxz+kH5oE3TrihmAuCL6e8kQKd/MZGyAchqPsg=
 			</data>
 		</dict>
 		<key>Headers/AWFMKTileSource.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6oqjbB+5V+trzuidJFtGN3QDPpb4sRlkrQxsi47Wx98=
+			iLd7Y5TkKU+VCzBdY08cxWNYAYGGJiSLk8CUrRVNLRo=
 			</data>
 		</dict>
 		<key>Headers/AWFMapArrow.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MhuT+wuYyVZBSuHN9U3tDmFFgm4NVCJTn/LP7AWv/ak=
+			zBvBvf3+wdk/NxT5jEnsKSbpQw+dJkYcm5/iNFSLeM4=
 			</data>
 		</dict>
 		<key>Headers/AWFMapCallout.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vdC37qSnznCIqSvPXKtd1JDSOxF2qAslNzIumBG0OYU=
+			8szLHzIBX+xtFPXuuxsXS84oqWFc8Cv3sAov4vsbD2A=
 			</data>
 		</dict>
 		<key>Headers/AWFMapContentSource.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CZDlJYlbjaSFN44pznswD/2juSTeuJy5T+Wgmj9iA6Y=
+			TuGO7dqCQnGhl94xqicO8MbOp2eYPVUHX5AiiD53MW0=
 			</data>
 		</dict>
 		<key>Headers/AWFMapContentType.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XumqwUx0IMX8OKncBCVnT3n7AeBfUgq0c4rIyKhEIPE=
+			ELktdTXRdb7krgacXW6mDQNMoEPRBkJnrT2hrNcSkiw=
 			</data>
 		</dict>
 		<key>Headers/AWFMapControlStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J/jJgvcox+NujAJl19cipfdCrzQd08HS86juAdgMkrU=
+			pJT6alCS1DUstO4rwTfwQF7kcvk1IT2lYPL0ZILkZ9o=
 			</data>
 		</dict>
 		<key>Headers/AWFMapCoordinateBounds.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nl4aX4Z2Or9fW1N/xPzsux6YZCxItuoQoq/TvsPEoiw=
+			izhlAj6b2l3Y8LDp4WcsQIv8Y7VpXpNQZrq90zhDiZg=
 			</data>
 		</dict>
 		<key>Headers/AWFMapGlobals.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TbBdJ5tdFgt5l9nK4DG5zUYzW55z4PRlZYEw9BnM+nA=
+			P273h9ORjT/CAbOnCg3tJRMgzBA+Z++SDqssyd8Bgc4=
 			</data>
 		</dict>
 		<key>Headers/AWFMapImageURL.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NRWMVLF2JE3GJLR6XWXP9uSeo/j35dbZLOI6z2Hb1G0=
+			ZOYvYuab9AYn8tbxoGL8Mrs+4gRIoDI66DZGeTKc3eY=
 			</data>
 		</dict>
 		<key>Headers/AWFMapItemStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			olocDcbTMb+qous+dnQuKTzZbYNTR8ZAaKdH54eFG/8=
+			Wdji6ahgSAe6PgmvkIiygpq7i049/41EeRgU5H4Ge+c=
 			</data>
 		</dict>
 		<key>Headers/AWFMapLayer.h</key>
@@ -1107,35 +1085,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vIqQMdAfzN8CUsOVXn2ySVBKX3uDxtDifFYfv02M4OM=
+			OUTa3AUIgh3XwakjxR558opnLOSVVMswOGsT/4D2ePI=
 			</data>
 		</dict>
 		<key>Headers/AWFMapLayersMetadata.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pLMfOUP80LvhNcUVDVFRo57sTfeBy2xxXN4XPPFoTeM=
+			EKzZg6J5uzFC4KeFXNOLq8e2ZQugnuT6WW0DCyjlnd8=
 			</data>
 		</dict>
 		<key>Headers/AWFMapOptionsViewController.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RHcKGQ7AyyO2NrdNPLR4PIuugf2p7SoFPFfF3i8UWSk=
+			b82999/uJ6RmMzqS5TOhsu8w4+nJ771bdnbmR0yUM/4=
 			</data>
 		</dict>
 		<key>Headers/AWFMapOverlayFactory.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yxANNQyvE5VS8Jfm8tlj+PGLUfnP4Kp0skNJgtrWT50=
+			m5BIp2TAtO3jPx/taIZHo2NuLl/rBRjlMUdc2mHT5mY=
 			</data>
 		</dict>
 		<key>Headers/AWFMapStrategy.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1bqICit/yFBeSfSQ0eK/yTbZaKEyK7lmVie8eK03IZY=
+			m6m6B7pNGDqyBcGZ4BXsGz7I9YCUcL0HmB7c0rUHKsM=
 			</data>
 		</dict>
 		<key>Headers/AWFMapTileURL.h</key>
@@ -1156,14 +1134,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			o1UzEk9pvm/XaJShAJ6A0VWQFymGt895nziEreZRMQs=
+			KAPXc8V4DfwzP64aNUQgfx7+Ony5w/BR4BZ3vLH8YE4=
 			</data>
 		</dict>
 		<key>Headers/AWFObservationCalloutContentView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F+TEG3v6dcouHeLNV5WG+LI1f5LblzhycQlhWky61pk=
+			TKKtM5Cew6NGhJndKNVWjVxokysPVVQVjHes87PXEn4=
 			</data>
 		</dict>
 		<key>Headers/AWFOverlayMetadata.h</key>
@@ -1184,42 +1162,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wYay8g/nkprd47ctITRw9UkO66ptixNDhE2R4Gy+hU4=
+			sZCth6jNjwfhsPzz5R/ifCT9KDNb5nmjA2HKHpuC/cc=
 			</data>
 		</dict>
 		<key>Headers/AWFPointLegend.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EbJbBX9SUDDpPsUCJhHDSO8eUoKTX9hL9ZBNArQ1RcQ=
+			UeiNLR2Nxi9DDQ9IAmlTaT7aY80GxhyRnnsOQKAtvME=
 			</data>
 		</dict>
 		<key>Headers/AWFPointSource.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eMZadv16Z4Q458wdBPArdH4k7UnEROBehkNwCVY/qoE=
+			ZYuX01fjdjGxAfMs8luEiFuyE59eT7nl/r96fCWP0No=
 			</data>
 		</dict>
 		<key>Headers/AWFPolygon.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MmYVxr+GuPc8GrET/TjXSIiIC5hxyY2vDYOq0JrSCAs=
+			8UjA1P+lPDsNW3xItUjWNkAaLvIBVqAuWUFOTPSZlOg=
 			</data>
 		</dict>
 		<key>Headers/AWFPolygonStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OhjJqeCAnWmDtMw2sUfUYFex5efoN14m2CTGTasrHiE=
+			D8R4NFw2I3e/GaNxWhO8ywCogxIsNGz/A9mi5eadhT8=
 			</data>
 		</dict>
 		<key>Headers/AWFPolyline.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/LGzMWxeQPsrhpqtIJGdFXsJAoLMRcsKshuZs6q1lro=
+			LRsywSNKe+JuvVOOx+lZCoGGAv2Aroe5/COQ5oRHR8k=
 			</data>
 		</dict>
 		<key>Headers/AWFRasterBlendMode.h</key>
@@ -1233,21 +1211,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			80tD4q+s5IIt+J9kND/htUPOCwNp0+fE/8I0J7OGMR8=
+			g7bRmbbmNcR4sO7tgh4EspgzQ4kBvhfOfw781vWAv38=
 			</data>
 		</dict>
 		<key>Headers/AWFRasterMapLayer.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PelSWhWa/kVZgLjMAlF+wy1MdMJYCZjIMXKKQ3Ifvew=
+			FEdmvaUorPUXCb0k33HUgoHLcYQFzhv4y9mvFCtxFj0=
 			</data>
 		</dict>
 		<key>Headers/AWFRasterMapLayerFilter.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OLpai1xHNkzboXPAPk1f6ukv96Oha0SNysRui+ZEtIk=
+			zGPze4qdlerOZ60J3X04lj247+HX1bIvQr6i0q+v0po=
 			</data>
 		</dict>
 		<key>Headers/AWFRasterMask.h</key>
@@ -1261,21 +1239,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H7FRZKtI0Yxf/is6d09pgx3dv9vIgxLlyHFVg0YO2IY=
+			pAq2ofWf/Jv7DbuQ+3QYJFE6WsmwMD+5b5HdcV7e/nQ=
 			</data>
 		</dict>
 		<key>Headers/AWFRecordAnnotationStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WeV9azGvbEs3rveKjp2clfkvTMWxyaI6g74atAf5FgY=
+			eF/V7MMz+CkwMHq+qBUwHjG3b/3NFIMQCwQx9HjHyXg=
 			</data>
 		</dict>
 		<key>Headers/AWFRiverAnnotationStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pO3geXDqC1j+2qz5iNgbT9BxC5caOtidlQEOafhm8b4=
+			qmibPWFDgYKyEYrYFCTqXOE1uMQAURz8o93VSjmX4Aw=
 			</data>
 		</dict>
 		<key>Headers/AWFShapeLayer.h</key>
@@ -1289,21 +1267,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8guvmFW+GdMszz9MpmFptRGDmzXIU/ugvhAzYl3uavI=
+			en/VGMu9m2QTlS2P4MgLdMNy3Rnc1I/Q5RnKs9a2Gtg=
 			</data>
 		</dict>
 		<key>Headers/AWFStormCellAnnotationStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YVnRclObqKu7iTyWvkfWxSV2A1oSf5N7SLa9fVcNdqM=
+			anuoKc/5GqMAG1D1fxDGr82ptb7Bx0Pvd4zOiZ+EccQ=
 			</data>
 		</dict>
 		<key>Headers/AWFStormReportAnnotationStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			erMwc9mO+HIKQS1niagvOm31ifk8X9UCaG6L1DDl70c=
+			kRcE2okv8kxIvwsT1J60qczD9bVaMI8K5d6byAY4VaI=
 			</data>
 		</dict>
 		<key>Headers/AWFStylable.h</key>
@@ -1317,35 +1295,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lYYwvUWwobRFPBBTnxR7HBUia6rmuYifbvLwDXsyVTo=
+			zJNLYuVduO0Bf/nw3ArwQThK5e6PV8/t9w1/KAiq/yk=
 			</data>
 		</dict>
 		<key>Headers/AWFTextAnnotationStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0lBTacSxWqA4It164/p0FHKEtXSr+ULDxKbpogh1fkg=
+			aXIAJRAoFM/cD8ZNaqadpWntWlUIpKIk01lm88B32R8=
 			</data>
 		</dict>
 		<key>Headers/AWFTextLabelAnnotation.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1jgIMYA5qm9R6MKGfCwbXLLX5Ab4Zv9rqmvOwIid7hU=
+			exvTot/p7CW925aMuhQguuxHoCttUCnQxF8MgU6+oO8=
 			</data>
 		</dict>
 		<key>Headers/AWFTileOverlayPath.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DxplQ20Ba6PCJenCyMZ9WKLiFEt/KZEg/53U6udRpvA=
+			zOj8sga8HML8ZxmmynnS4lw5iQjRpSjesuu/9EXuctU=
 			</data>
 		</dict>
 		<key>Headers/AWFTileSource.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TuZFLgslv9PKFnS5/OmTB2+qb8yMOFcmG4uJAHOUWdM=
+			NweOtMSQCZgPMh5JJdp4QDxl+yBBjJi1/nG+AKeCUrM=
 			</data>
 		</dict>
 		<key>Headers/AWFTimeDependent.h</key>
@@ -1359,42 +1337,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ABL6Z83SRjHuSul7+Bv1UqMqwhJhfPu1IWZjNPeDOEY=
+			YVHysBXpi+oJ9mtg81y1qHLUfYQurR+/3VFuTqAv0Vo=
 			</data>
 		</dict>
 		<key>Headers/AWFTropicalBreakpointPolygonStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZyxPti+g2XpgORj68WCp+kmy7K4nN3IZMR51PwWjlQY=
+			BP53XHYKtZ38jvH5y89V3bd6zzfZrhuJazSBExQn5zk=
 			</data>
 		</dict>
 		<key>Headers/AWFTropicalCycloneAnnotationStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tf4Vk7KmtiFwZ2eyLIUoqg+LlsYpTNXxgqKecmG1640=
+			SUrUs1tqTrKYJXOHr3t7HV/ZZftl00Iln+Q62sAhf1k=
 			</data>
 		</dict>
 		<key>Headers/AWFTropicalCyclonePositionCalloutView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HTKmh8iFlcdym4b/FiLw3U2k3QZ0wuC3miBS+L9N6BU=
+			Xwa+H+KDc0BskUdDpLVbWy1wo3tsNL1YcW2ter8905E=
 			</data>
 		</dict>
 		<key>Headers/AWFTropicalSystemAnnotationStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8tBdAvSk48uwW11mBdIpFzD4lmjXHpahmafDa0Z0m4I=
+			UUPCCj1kh4aCfyMvwITOhQ4NyJtPoDNRSuscvDviJkY=
 			</data>
 		</dict>
 		<key>Headers/AWFWarningPolygonStyle.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l/K2F6sx73tiyVGZAlcgtbt+015c+iDpiksy6Zu64Is=
+			pNN/pcHtlmzDuaeE72ROetaxPJrHkeu2SfPAVNKljyY=
 			</data>
 		</dict>
 		<key>Headers/AWFWeatherLayer.h</key>
@@ -1408,21 +1386,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V7GCN/8EGenjB33IaVURzp9Mm/5XeIJs9SEH2t7fO7k=
+			ay5GOl9eaYe8g3MUbhMYEsL5P4kkzJoxeCi5F5cA8g8=
 			</data>
 		</dict>
 		<key>Headers/AWFWeatherMapConfig.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cTWLNOEcBHk33IU8J7/lCrU3W9kcGoXPWa9l+uizbbY=
+			6rybwF1uc7qtmtpSFHR4f25+4UnyqDUxbf0fROynt9E=
 			</data>
 		</dict>
 		<key>Headers/AWFWeatherMapContainerView.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IFT3ErBXSGxm9KX0ibK6UvgK0gBXC0xkhVurGuYOdlU=
+			oOgaAAGOlbwplnrnw1RfyyRH67b1mOwf9ekmGl221Jo=
 			</data>
 		</dict>
 		<key>Headers/AWFWeatherMapDataSource.h</key>
@@ -1450,21 +1428,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QZIm+pRKEEZu70ZThi00kMwe0vWCKYbZDrUK80+yqGE=
+			rYcNhAT3OjC4rAX4BajT7PTGPE81KoBvhYdJLm/OaYU=
 			</data>
 		</dict>
 		<key>Headers/AerisMapKit.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qUS6HWGk7yx+V5hVQDtYQ6FxqInLO7QRtrQwwpMI0AU=
+			UWZrtDT1ULxyqGFf/75TSP4/8HEBA300e27Xcar2Ges=
 			</data>
 		</dict>
 		<key>Headers/MKMapView+AerisMapKit.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3wQ/zeSrwqjl5vz2tw57tq4gdRAUZ8jcLZsL58ns5VM=
+			v/WjBNJcyMq87SRoGIbMEsMiuq61ZjM6eyvZkAq61ag=
 			</data>
 		</dict>
 		<key>Headers/NSBundle+AerisMapKit.h</key>

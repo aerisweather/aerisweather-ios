@@ -23,6 +23,7 @@ NS_ASSUME_NONNULL_BEGIN
  - AWFMeasurementAccumulation: Accumulation measurement
  - AWFMeasurementProbability: Probability measurement
  - AWFMeasurementPressure: Pressure Measurement
+ - AWFMeasurementAmperage: Electrical Amp Measurement
  */
 typedef NS_ENUM(NSUInteger, AWFMeasurement) {
 	AWFMeasurementNone = 0,
@@ -37,7 +38,8 @@ typedef NS_ENUM(NSUInteger, AWFMeasurement) {
 	AWFMeasurementProbability,
 	AWFMeasurementPressure,
 	AWFMeasurementConcentration,
-	AWFMeasurementDecibals
+	AWFMeasurementDecibals,
+	AWFMeasurementAmperage,
 };
 
 /**

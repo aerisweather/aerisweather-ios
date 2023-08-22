@@ -6,63 +6,63 @@
 	<dict>
 		<key>Headers/AWFArcLayer.h</key>
 		<data>
-		yBRYkkLl97cPfCX8GFnweuMUUAE=
+		0p8+d7FplW5mN6ohXkc0+0Nme4U=
 		</data>
 		<key>Headers/AWFBarGraphRenderer.h</key>
 		<data>
-		b1mYs9kvHUYCugjj01nZEg+SufU=
+		s4A4lXSbFlY/SILd067DqFHgvZw=
 		</data>
 		<key>Headers/AWFCircularProgressView.h</key>
 		<data>
-		QWxKs9uckJ1ooR2dIQG3y4RvgDY=
+		kZcNjpJ/eC0BJg1LzijF0tEIe8E=
 		</data>
 		<key>Headers/AWFColorRamp.h</key>
 		<data>
-		B8wjw0jT8nntq5AvoDHQ+62AHXA=
+		lqHWF9qHYXbd0tZcAPmLbmSLiQ4=
 		</data>
 		<key>Headers/AWFColorStop.h</key>
 		<data>
-		8ikwiLeLP2voJCrWPtjWJhdfgDQ=
+		21OZM9pkmd6CuByumYGetc/0gBk=
 		</data>
 		<key>Headers/AWFEasing.h</key>
 		<data>
-		lJdgDjl8hlpy+5XMb1KZenRlS1s=
+		geSCt8uPQ3lcIQud6dZTiLtXzGw=
 		</data>
 		<key>Headers/AWFEdgeSwipeGestureRecognizer.h</key>
 		<data>
-		lsvAFsef9wpLsUS8D+dXMFHQsSk=
+		/DOdIHVn97IMvwf/VFeBcqjUd6Y=
 		</data>
 		<key>Headers/AWFGeometry.h</key>
 		<data>
-		MNrz+U4TT9i4xLnXKssjscCHCHM=
+		Zqu9YCRH8WTo0bHQQGp0LTQSm6M=
 		</data>
 		<key>Headers/AWFGradientView.h</key>
 		<data>
-		HSsiGHn94opGbkjDNmmEbZXVZTg=
+		DTmka5DGukvdUeADHFCCQnaYkqY=
 		</data>
 		<key>Headers/AWFGraphAxis.h</key>
 		<data>
-		XV4cksJhkzSdDQXeQ/ujfCWYQs0=
+		hHaRVsmcqJQ/FE3bvKnZPf515wE=
 		</data>
 		<key>Headers/AWFGraphCalloutView.h</key>
 		<data>
-		4BndxsgXSx/FndTjrvISIIQwalo=
+		yGPrEIWE5EuAXNykPmECMSl0Zl0=
 		</data>
 		<key>Headers/AWFGraphRenderer.h</key>
 		<data>
-		6mmuSu3yEo8sZh79RjMHNwsAZks=
+		pja8l+85c0iLfPU6r1Slq/jnF/I=
 		</data>
 		<key>Headers/AWFGraphSeries.h</key>
 		<data>
-		4SExI2hpfWkFsqWeBq33l5Qs9zg=
+		6Yc5UTzvPZmDbcpkSoM+SUqxzTQ=
 		</data>
 		<key>Headers/AWFGraphTimeAxis.h</key>
 		<data>
-		Z25AVm9gJFvrwNXloZEpr1ebKdA=
+		UtqNY+Z6GYvuvkPpf81QdMv7cug=
 		</data>
 		<key>Headers/AWFGraphView.h</key>
 		<data>
-		Lc1aNQaOSF7bpSxZ4c1xBhXwrV0=
+		S+H6TUgyXwPk/BwpNVCrWoLSF+c=
 		</data>
 		<key>Headers/AWFIcon.h</key>
 		<data>
@@ -70,23 +70,23 @@
 		</data>
 		<key>Headers/AWFLineGraphRenderer.h</key>
 		<data>
-		UC7M00v6AZEp8DD//e9Kod1bG0c=
+		2Me1T70w54fTk7ehEAC2yo0grRI=
 		</data>
 		<key>Headers/AWFSeriesItem.h</key>
 		<data>
-		kmnQKi2cEd75NtlZSh1zuwyBR1E=
+		wzy+8221+18Ov5YfKSMGVYztKcw=
 		</data>
 		<key>Headers/AWFSeriesPoint.h</key>
 		<data>
-		xGlGK82vJLMGD5wejR+0IBTzp0Q=
+		Or5fk/GGVjNxp7Fw7Z8qWhHMM2M=
 		</data>
 		<key>Headers/AWFShapeView.h</key>
 		<data>
-		IeqFosYSfBP2SlPYXBrud6ZdkEw=
+		HFZbSxoRwg1bOOukNj6RmCA4HRs=
 		</data>
 		<key>Headers/AWFSpringAnimation.h</key>
 		<data>
-		k5hCaKtqBDP+760tW9TTxH8m+as=
+		MDTLGzRb0AcxHEv9mnRpzUvnMp0=
 		</data>
 		<key>Headers/AWFTableSection.h</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>Headers/AWFTextStyleSpec.h</key>
 		<data>
-		MAcB5iZ0fc3J5ZlWUDuD7wS8Qyc=
+		luhp6760JZTzXU6OiZ2Lt1XsH6c=
 		</data>
 		<key>Headers/AWFTooltip.h</key>
 		<data>
-		3eZT7+XPcfA1t4RVzNOxq+LkVaE=
+		hukOYXDEWUBeL1fVkQqMBHjMvJo=
 		</data>
 		<key>Headers/AerisCoreUI.h</key>
 		<data>
@@ -110,19 +110,19 @@
 		</data>
 		<key>Headers/CAKeyframeAnimation+AerisCoreUI.h</key>
 		<data>
-		+3Xm4nECiS6TfNajN0IZyx4FXcE=
+		7OV1xkKFYZqhcviLFEHkK99wbC4=
 		</data>
 		<key>Headers/CALayer+AerisCoreUI.h</key>
 		<data>
-		IcNJzYecLznxFTo3EN8pYbUfFmo=
+		DwKREUNLRUKa3rkt+7KryqMTC4Y=
 		</data>
 		<key>Headers/CAMediaTimingFunction+AerisCoreUI.h</key>
 		<data>
-		1aIZh/739ZgR8dmJ0k007wAYIcU=
+		Zb+MNV4M8cOlvoRQ1JMqX4KDYe8=
 		</data>
 		<key>Headers/CATransaction+AerisCoreUI.h</key>
 		<data>
-		S5t611xfLTQzM0KXaj4a87/3y+0=
+		CGo9vV4w89C+BmsQ6yIKloIs0Io=
 		</data>
 		<key>Headers/NSValue+AerisCoreUI.h</key>
 		<data>
@@ -130,39 +130,39 @@
 		</data>
 		<key>Headers/UIBezierPath+AerisCoreUI.h</key>
 		<data>
-		0QZ/N+UFniU+k6vCQtyN1JjCo4A=
+		yZkSlXnAYkhSg1HBnMpiDBaA39A=
 		</data>
 		<key>Headers/UIColor+AerisCoreUI.h</key>
 		<data>
-		KqTOgp1iNkXzDHHMPhUNGEAzfZQ=
+		OZFibS0F2iB/2jUo7+0xGVjF890=
 		</data>
 		<key>Headers/UIControl+AerisCoreUI.h</key>
 		<data>
-		yzOjW9IKqGfXwPGgb5galcJBr3A=
+		7Hn5qD0gIQbzPyB7WYKjlXL2jRk=
 		</data>
 		<key>Headers/UIDevice+AerisCoreUI.h</key>
 		<data>
-		+O3dLv+hIr1rHDLbhXqRwUaw2J0=
+		XUsAU+y/qfdZv7x2EyavkOj1/TU=
 		</data>
 		<key>Headers/UIFont+AerisCoreUI.h</key>
 		<data>
-		QviIiJKGJm3uu8h7qQvWRfE/ZcA=
+		vJ1R1uij/W4U92dQgwH9bUVdp/8=
 		</data>
 		<key>Headers/UIImage+AerisCoreUI.h</key>
 		<data>
-		HtpvWAR9kr2e362dRg3uSBbAXzY=
+		OS2p5S2je3wFB2a/t9Ifqz4+4X8=
 		</data>
 		<key>Headers/UIView+AerisCoreUI.h</key>
 		<data>
-		9F7VYR9yYUlzwEcx0nX5tcmplqM=
+		+C15vbNNjhvkd7klYMQBZh5N/78=
 		</data>
 		<key>Headers/UIViewController+AerisCoreUI.h</key>
 		<data>
-		KEvMPVDmpkUrEpm7+9rndBiIerc=
+		t1PLtJ2d+Is/me3+3k6Uj9YGMTA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8h0zR2OUA1KXqxRYWsrHyOfrfxY=
+		cZxzYtgD0xKCbqvE5UgGrt/eE/8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -173,175 +173,111 @@
 	<dict>
 		<key>Headers/AWFArcLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yBRYkkLl97cPfCX8GFnweuMUUAE=
-			</data>
 			<key>hash2</key>
 			<data>
-			ubiG+M2ywv9//FadT8u/YwO5XJGEOip769yZMl8GWDc=
+			cYiTifjUKO9wi9qDVCUsUxbaPtS/BSgLOedVOTQjQQw=
 			</data>
 		</dict>
 		<key>Headers/AWFBarGraphRenderer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			b1mYs9kvHUYCugjj01nZEg+SufU=
-			</data>
 			<key>hash2</key>
 			<data>
-			c1/UEZthodoKGRpMvrBXZF8duLgq34IzIjzIRLnvTOs=
+			NqXqJhmYmMO+0I30yCrfMw2kbeWhgyJ0ea4l3he/F88=
 			</data>
 		</dict>
 		<key>Headers/AWFCircularProgressView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QWxKs9uckJ1ooR2dIQG3y4RvgDY=
-			</data>
 			<key>hash2</key>
 			<data>
-			O8s61bNKQdM4USWOfotMbr+uyhXT0fWWndiIpsxZ9UM=
+			m4hEAW1sWTL9+VLA/6wpAoSo2V84gkJn2/huDWb0aGM=
 			</data>
 		</dict>
 		<key>Headers/AWFColorRamp.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			B8wjw0jT8nntq5AvoDHQ+62AHXA=
-			</data>
 			<key>hash2</key>
 			<data>
-			YJRB3sdrjcMaunHFRhLZ3gM9kh58GfuQxKF1bwZsBqo=
+			/olQZFp3jsxSsVY/f3K/W71fj+htOHz32Cr9Bk+qJrI=
 			</data>
 		</dict>
 		<key>Headers/AWFColorStop.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8ikwiLeLP2voJCrWPtjWJhdfgDQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			otxRRHEkfukqx9dAIKLO8GnrnkA/HSUpi3jFWC8B/KI=
+			RKN3E4kJ7DkdPwKNiQjP5rBp9fz4+LZTB8f8Zqy/dpE=
 			</data>
 		</dict>
 		<key>Headers/AWFEasing.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lJdgDjl8hlpy+5XMb1KZenRlS1s=
-			</data>
 			<key>hash2</key>
 			<data>
-			pOIilA49G/74Qm0hM0pOOEtpYwl6/oaPXHSBsDCnTTU=
+			Vo2223oFkT09/bfEok9AaY6UpCTs6PjNC5lztx/PRos=
 			</data>
 		</dict>
 		<key>Headers/AWFEdgeSwipeGestureRecognizer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lsvAFsef9wpLsUS8D+dXMFHQsSk=
-			</data>
 			<key>hash2</key>
 			<data>
-			pXtQ0XbUn7QXiQAPWCgkG7PeReLh7hQ8kXSQJKi2bh0=
+			myM/AWk16kHmdnT0mDqA+TcI3nA4cpJS4qB6xJ0qzcs=
 			</data>
 		</dict>
 		<key>Headers/AWFGeometry.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MNrz+U4TT9i4xLnXKssjscCHCHM=
-			</data>
 			<key>hash2</key>
 			<data>
-			PPcyXPZN0OlHwbq3gPgpKyUKkrgS1S35vvS+42OtcHo=
+			fyFP7hZOvpTGwgjHdaX6brpTWfR+Ou4unZ343JxhQPA=
 			</data>
 		</dict>
 		<key>Headers/AWFGradientView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HSsiGHn94opGbkjDNmmEbZXVZTg=
-			</data>
 			<key>hash2</key>
 			<data>
-			YUFGNlbK4vVmWxiKeXfd2Js3Y7B06QKJV20WgA2kncg=
+			jbeTxheeF89cN5HSiH3e/DM05SuXLMAhqOP4waOkc7E=
 			</data>
 		</dict>
 		<key>Headers/AWFGraphAxis.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XV4cksJhkzSdDQXeQ/ujfCWYQs0=
-			</data>
 			<key>hash2</key>
 			<data>
-			jYLt2UHxmSjfa8BRamg0xvcpXlaJiMiDKI+ctvFoynk=
+			Kke1Plm42lAygl5y3SWYyzXFU+WSqs+7oo/ZK13QaBM=
 			</data>
 		</dict>
 		<key>Headers/AWFGraphCalloutView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4BndxsgXSx/FndTjrvISIIQwalo=
-			</data>
 			<key>hash2</key>
 			<data>
-			cXIP5Ekiw4IRZsiPjygRNorQW4EaBlT5DpPM9d7ZNSw=
+			BCkvYsKdnqji1kFcTmS6zE5nD1oKT3qDe1Ka/iYznyQ=
 			</data>
 		</dict>
 		<key>Headers/AWFGraphRenderer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6mmuSu3yEo8sZh79RjMHNwsAZks=
-			</data>
 			<key>hash2</key>
 			<data>
-			kLg1oWuwrpVjkT3HyJFaSid8+B8Kz63jTm2rRY+tSzE=
+			j9NdbaxBX0oRqrodBFBLaMMILxKBs2Ij1mQHL/2Vs+c=
 			</data>
 		</dict>
 		<key>Headers/AWFGraphSeries.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4SExI2hpfWkFsqWeBq33l5Qs9zg=
-			</data>
 			<key>hash2</key>
 			<data>
-			US3WaHsHESI7lm5mpKIcGxvMcc4f0bC/06DNuq7aTM0=
+			tmPuGLWgMz2mFNkfqmFcq8b/M60VT1xIuyjz7jJlOPg=
 			</data>
 		</dict>
 		<key>Headers/AWFGraphTimeAxis.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Z25AVm9gJFvrwNXloZEpr1ebKdA=
-			</data>
 			<key>hash2</key>
 			<data>
-			YzmrplsK8OItaucCC9X+zm0NJ79Ov8QxNn991IVM1ro=
+			NPUA3NA4j3As/hdQd78w5lyoZXZTDpUopr94cEuhWGo=
 			</data>
 		</dict>
 		<key>Headers/AWFGraphView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Lc1aNQaOSF7bpSxZ4c1xBhXwrV0=
-			</data>
 			<key>hash2</key>
 			<data>
-			VWS1XdeXLJBV+g0EPLG/uEu5MItECE6X30q8z7BfJ/Q=
+			DiWTHc2Rwkk/n60WgEA56y/LL/HRduCjgZns2wJzSEk=
 			</data>
 		</dict>
 		<key>Headers/AWFIcon.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			s6YJXsekMYCGW5gW+quIRWaM4+8=
-			</data>
 			<key>hash2</key>
 			<data>
 			Smz5LQRHz+B0iovMiV4l2b7VLyHSuvWQKEQNzAv7DzE=
@@ -349,65 +285,41 @@
 		</dict>
 		<key>Headers/AWFLineGraphRenderer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UC7M00v6AZEp8DD//e9Kod1bG0c=
-			</data>
 			<key>hash2</key>
 			<data>
-			Bz+Yj9bFizTumMI9JrRr4ZeTnOcGanwa7fUP2fJLtWM=
+			DvtlbQTbD3WBSfJB2f6H+TlTu6FaVH2wQOfkGbJVdMY=
 			</data>
 		</dict>
 		<key>Headers/AWFSeriesItem.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kmnQKi2cEd75NtlZSh1zuwyBR1E=
-			</data>
 			<key>hash2</key>
 			<data>
-			/yLCM4PcMGjxdT0qVmZadh7MrXj1Xjv7N/fxqNbecuk=
+			OiZ1uWlJLNnlbKB5VzsAeKaGsyJIZdMGB81ShLzI47g=
 			</data>
 		</dict>
 		<key>Headers/AWFSeriesPoint.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xGlGK82vJLMGD5wejR+0IBTzp0Q=
-			</data>
 			<key>hash2</key>
 			<data>
-			wRZ/HAyoxJ797Xe/k4pT0YDLiDOrjDP6VtXn9KKfZiM=
+			ek/R+SAfXSSEFcdHrcbLPiAvro/7tuH8u1noVvkN2kA=
 			</data>
 		</dict>
 		<key>Headers/AWFShapeView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IeqFosYSfBP2SlPYXBrud6ZdkEw=
-			</data>
 			<key>hash2</key>
 			<data>
-			y0M520TgpnVueZVW1o21mawE88vbaHM8S9oKqP2du70=
+			I/qNR8gYzKE8zlJ9ZGbbU6dzf+I187yDZmwIM7K9wBI=
 			</data>
 		</dict>
 		<key>Headers/AWFSpringAnimation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			k5hCaKtqBDP+760tW9TTxH8m+as=
-			</data>
 			<key>hash2</key>
 			<data>
-			Sr3WPSKz1BZc3lHxEF+yEI3vHW0nCP3acBYiT90NWxc=
+			h57gOoSGJrkPf2qkkqsdCwwN04g0oLDSbGulcuOg0rU=
 			</data>
 		</dict>
 		<key>Headers/AWFTableSection.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wsmhFUY4vXFvaDPsFvx/gJ70/xQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			ska2rTC92lCYk4z8qB6vqG+CQ6dnqcJW94edcCZi92Q=
@@ -415,10 +327,6 @@
 		</dict>
 		<key>Headers/AWFTableSectionRow.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xYgHPueQ/OvocesOfzbCxMGXMXk=
-			</data>
 			<key>hash2</key>
 			<data>
 			zRp7TzglBqcKpF7UQ6DKoUoUI3/e1cAqMyZm5B/16Fc=
@@ -426,32 +334,20 @@
 		</dict>
 		<key>Headers/AWFTextStyleSpec.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MAcB5iZ0fc3J5ZlWUDuD7wS8Qyc=
-			</data>
 			<key>hash2</key>
 			<data>
-			s+jExDK1rH4haP9rzifwiX3zi6t5AJpAivkkq45b00w=
+			Z6GMC2d8Q6wBIK8IcnTqmZWYMagFIe7WNkhJ+QBqF3I=
 			</data>
 		</dict>
 		<key>Headers/AWFTooltip.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3eZT7+XPcfA1t4RVzNOxq+LkVaE=
-			</data>
 			<key>hash2</key>
 			<data>
-			tmLIGDxqpfQ5RM31okKsAfBJ/jLW6gVAjKf561LTYXE=
+			DaqI0CraF9e7GoutLnnbXV2+H2mXj9XAHrKnHLkBZ7o=
 			</data>
 		</dict>
 		<key>Headers/AerisCoreUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zI8/Y2fnNXXtcB0adATiBV5Lkqk=
-			</data>
 			<key>hash2</key>
 			<data>
 			/pRIXq6aArpOIHC/hBQc09Q/7fGbZeqnFKaHkkvuFxA=
@@ -459,54 +355,34 @@
 		</dict>
 		<key>Headers/CAKeyframeAnimation+AerisCoreUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+3Xm4nECiS6TfNajN0IZyx4FXcE=
-			</data>
 			<key>hash2</key>
 			<data>
-			vKkwshJ2i457NGdx3HfeSus6nxtj4YFUdgS2JvCuZS8=
+			Lx4RR0TBdIKoA90zsGJRpKjl1vXLRYl1khQqH+qj72I=
 			</data>
 		</dict>
 		<key>Headers/CALayer+AerisCoreUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IcNJzYecLznxFTo3EN8pYbUfFmo=
-			</data>
 			<key>hash2</key>
 			<data>
-			GG2ONHD1v6Ihw6ESkxQJf/MWJZv0ze4QmmOkthlsFGs=
+			QGEx6nIvi3wQDYQSTG785DyOhVp4aAzQji2nT9eqEuI=
 			</data>
 		</dict>
 		<key>Headers/CAMediaTimingFunction+AerisCoreUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1aIZh/739ZgR8dmJ0k007wAYIcU=
-			</data>
 			<key>hash2</key>
 			<data>
-			sn4J7IEs7H3cf31Y0+1ZysgOax3zK6EGhLj2vCxEU3M=
+			1TnOPKtlVWxj5c5ZM09FJZK+25Wx/qvCK5WUgtBOjj4=
 			</data>
 		</dict>
 		<key>Headers/CATransaction+AerisCoreUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			S5t611xfLTQzM0KXaj4a87/3y+0=
-			</data>
 			<key>hash2</key>
 			<data>
-			fWdCAggc9kLil5Jw8UCMwQ2gVKdKVOccS0x/Lg4plt8=
+			RlQkPqOtluxhbtuMUKhhIu/WGhnI6AugDJwhL9pvfYw=
 			</data>
 		</dict>
 		<key>Headers/NSValue+AerisCoreUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NkmA7TNFfPVlXhqLPEOh8joPCBU=
-			</data>
 			<key>hash2</key>
 			<data>
 			aHLvJZPH/aKlJqmqxjJjBj+0UpREAvxhT7d6LRQRyXA=
@@ -514,98 +390,62 @@
 		</dict>
 		<key>Headers/UIBezierPath+AerisCoreUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0QZ/N+UFniU+k6vCQtyN1JjCo4A=
-			</data>
 			<key>hash2</key>
 			<data>
-			eWu766mzKbnEpRajQFn3e67db1+y/Ro0quL0hKbNx/E=
+			ZzngJWMMjgptmYSIJ3iRnUATJbRtalpUaxI1dpfsTM4=
 			</data>
 		</dict>
 		<key>Headers/UIColor+AerisCoreUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KqTOgp1iNkXzDHHMPhUNGEAzfZQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			ixVaHBOPIdEZw93+cOEvw6EiB9q/jQsJV7e01AoqLAM=
+			uejdjUYVWT4UbLJMxbLX6QoMR5oddvClltSBfLw8Eus=
 			</data>
 		</dict>
 		<key>Headers/UIControl+AerisCoreUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yzOjW9IKqGfXwPGgb5galcJBr3A=
-			</data>
 			<key>hash2</key>
 			<data>
-			hJdpAQpe/xhp7bezkklk/Se27/BBZ/dH/f/Bcj9hFZs=
+			6II29g3zOx7sqUu/Oa87BBzit96Zn4Y/lu0hcYIzJEg=
 			</data>
 		</dict>
 		<key>Headers/UIDevice+AerisCoreUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+O3dLv+hIr1rHDLbhXqRwUaw2J0=
-			</data>
 			<key>hash2</key>
 			<data>
-			nmCSESm1nOCe02mdc5+lgJacS9z1N0SAbk3heOfUK0E=
+			CFaoCrYAveZ7vi+ZeHJJjjB1WUEuE0x7l/f9QhclQoI=
 			</data>
 		</dict>
 		<key>Headers/UIFont+AerisCoreUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QviIiJKGJm3uu8h7qQvWRfE/ZcA=
-			</data>
 			<key>hash2</key>
 			<data>
-			GZEFrmrxx3JPavINwfL48IEXkyguOmnPlRLQ7XCqoHk=
+			mvs9quMBSYSofVYsVGw3w1GSVpnQevKuSllBRnf0Edo=
 			</data>
 		</dict>
 		<key>Headers/UIImage+AerisCoreUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HtpvWAR9kr2e362dRg3uSBbAXzY=
-			</data>
 			<key>hash2</key>
 			<data>
-			yPpp2js2N6AKqS8dx1TjrX7mYWgKRxA15u+tODOC6lw=
+			3ZVmwvKfpEfJCdK4r8LF65yJTd5E0Opp7QSIZGM4PQ0=
 			</data>
 		</dict>
 		<key>Headers/UIView+AerisCoreUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9F7VYR9yYUlzwEcx0nX5tcmplqM=
-			</data>
 			<key>hash2</key>
 			<data>
-			IwkWvY8RXtpQFYEafG1/3jxfKXGm1wjn6/OhLgkUxO8=
+			5RsixOW/AalvTeg/Jw1GY2E+Zuc0a9wjViG5/FCNIIA=
 			</data>
 		</dict>
 		<key>Headers/UIViewController+AerisCoreUI.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KEvMPVDmpkUrEpm7+9rndBiIerc=
-			</data>
 			<key>hash2</key>
 			<data>
-			n9H3LtoND0kTDuyCS6no0oWALKc4V6SK0NXjiH7dG2k=
+			3W7SqJgSGrzxLXOO3qSYvtZvZMvbDoDAwOODxuLC2yI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ETK5bdW06ftLusjhAQ0paVa7En4=
-			</data>
 			<key>hash2</key>
 			<data>
 			2TNS3+E+8PtKyUqWAnXI7nA7ulC6MtEdqII21brbOkM=
