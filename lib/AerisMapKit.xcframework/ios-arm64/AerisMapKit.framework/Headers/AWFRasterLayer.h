@@ -337,6 +337,13 @@ FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerFiresObsPoints;
 
 /**
  Aggregated cloud-to-ground and intracloud lightning flashes in the last 15 minutes.
+ 
+ Alias for `AWFMapLayerLightningAll15Minute`.
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerLightningAll;
+
+/**
+ Aggregated cloud-to-ground and intracloud lightning flashes in the last 15 minutes.
  */
 FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerLightningAll15Minute;
 
@@ -386,6 +393,136 @@ FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerLightningStrikes5Minute;
  Cloud-to-ground lightning strikes in the last 5 minutes.
  */
 FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerLightningStrikes5MinuteIcons;
+
+//-----------------------------------------------------------------------------
+// @name Air Quality
+//-----------------------------------------------------------------------------
+
+/**
+ Air Quality Index.
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerAirQualityIndex;
+
+/**
+ Air Quality Index Categories.
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerAirQualityIndexCategories;
+
+/**
+ Particulate Matter < 2.5um
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerAirQualityPM2p5;
+
+/**
+ Particulate Matter < 10um
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerAirQualityPM10;
+
+/**
+ Carbon Monoxide
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerAirQualityCO;
+
+/**
+ Nitrogen Monoxide
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerAirQualityNO;
+
+/**
+ Nitrogen Dioxide
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerAirQualityNO2;
+
+/**
+ Sulfer Dioxide
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerAirQualitySO2;
+
+/**
+ Ozone
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerAirQualityO3;
+
+//-----------------------------------------------------------------------------
+// @name Maritime
+//-----------------------------------------------------------------------------
+
+/**
+ Sea Surface Temperatures
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaritimeSST;
+
+/**
+ Deprecated.  Use `AWFMapLayerMaritimeSST` instead.
+ 
+ Alias for `AWFMapLayerMaritimeSST`.
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerSeaSurfaceTemps;
+
+/**
+ Ocean Currents
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaritimeCurrents;
+
+/**
+ Primary Wave Heights
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaritimeWaveHeights;
+
+/**
+ Primary Wave Periods
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaritimeWavePeriods;
+
+/**
+ Primary Wind Wave Heights
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaritimeWindWaveHeights;
+
+/**
+ Primary Wind Wave Periods
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaritimeWindWavePeriods;
+
+/**
+ Primary Swell Heights
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaritimeSwellHeights;
+
+/**
+ Primary Swell Periods
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaritimeSwellPeriods;
+
+/**
+ Secondary Swell Heights
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaritimeSwell2Heights;
+
+/**
+ Secondary Swell Periods
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaritimeSwell2Periods;
+
+/**
+ Tertiary Swell Heights
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaritimeSwell3Heights;
+
+/**
+ Tertiary Swell Periods
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaritimeSwell3Periods;
+
+/**
+ Storm Surge Height
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaritimeSurges;
+
+/**
+ Tide Height
+ */
+FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaritimeTides;
 
 
 //-----------------------------------------------------------------------------
@@ -852,15 +989,6 @@ FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaskWaterDepth;
  */
 FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerMaskWaterFlat;
 
-
-//-----------------------------------------------------------------------------
-// @name Ocean
-//-----------------------------------------------------------------------------
-
-/**
- 
- */
-FOUNDATION_EXPORT AWFMapLayer const AWFMapLayerSeaSurfaceTemps;	
 
 //-----------------------------------------------------------------------------
 // @name AMP Point/Shape Layers

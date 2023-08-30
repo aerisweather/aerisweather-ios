@@ -41,6 +41,7 @@
 #import <AerisWeatherKit/AWFLightningStrikes.h>
 #import <AerisWeatherKit/AWFLightningSummaries.h>
 #import <AerisWeatherKit/AWFLightningThreats.h>
+#import <AerisWeatherKit/AWFMaritime.h>
 #import <AerisWeatherKit/AWFMoonPhases.h>
 #import <AerisWeatherKit/AWFNormals.h>
 #import <AerisWeatherKit/AWFObservations.h>
@@ -80,6 +81,7 @@
 #import <AerisWeatherKit/AWFLightningStrike.h>
 #import <AerisWeatherKit/AWFLightningSummary.h>
 #import <AerisWeatherKit/AWFLightningThreat.h>
+#import <AerisWeatherKit/AWFMaritimeReport.h>
 #import <AerisWeatherKit/AWFMoonPhase.h>
 #import <AerisWeatherKit/AWFNormal.h>
 #import <AerisWeatherKit/AWFNormalStation.h>

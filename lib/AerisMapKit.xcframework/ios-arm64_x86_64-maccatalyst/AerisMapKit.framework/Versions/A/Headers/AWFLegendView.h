@@ -71,7 +71,7 @@ typedef NS_ENUM(NSInteger, AWFWeatherMapLegendPosition) {
 @property (nonatomic, assign) BOOL showsCloseIndicator;
 
 /**
- A Boolean value indicating whether the view is currently shown/expanded or hiddden/collapsed.
+ A Boolean value indicating whether the view is currently shown/expanded or hidden/collapsed.
  
  Use ``show:animated:`` to set the expanded/collapsed state.
  */
@@ -113,6 +113,8 @@ typedef NS_ENUM(NSInteger, AWFWeatherMapLegendPosition) {
 
 /**
  Shows or hides the view, which is either expanded or collapsed respectively.
+ 
+ Use ``expanded`` to get the current shown/hidden state.
  
  @param show A Boolean indiciating whether to show the view
  @param animated A Boolean indicating whether the action should be animated

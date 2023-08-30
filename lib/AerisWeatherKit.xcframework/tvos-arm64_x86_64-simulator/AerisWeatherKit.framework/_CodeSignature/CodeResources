@@ -201,6 +201,14 @@
 		<data>
 		tAtJx80vlsV/srsQ5Sfmp4BLlPQ=
 		</data>
+		<key>Headers/AWFMaritime.h</key>
+		<data>
+		cdAAddPQ1ARW+oyRUJzMPFLmU0k=
+		</data>
+		<key>Headers/AWFMaritimeReport.h</key>
+		<data>
+		whkw6V+TqP60AJHprkAW3+gyi8A=
+		</data>
 		<key>Headers/AWFMeasurement.h</key>
 		<data>
 		NWZDKGk/IYCEs6PDAYxpvC6x7ok=
@@ -247,7 +255,7 @@
 		</data>
 		<key>Headers/AWFPlace.h</key>
 		<data>
-		BqRmKNZlBGY3V2pqeZZO5zamgeM=
+		EAcugcDi38Zyo1CmNlE6mstE56M=
 		</data>
 		<key>Headers/AWFPlaces.h</key>
 		<data>
@@ -435,7 +443,7 @@
 		</data>
 		<key>Headers/AerisWeatherKit.h</key>
 		<data>
-		yc4h/ZIindcHevYfr0ewi43bySk=
+		dIehB32Jnf4yqEn7fTQ8bKKUdYE=
 		</data>
 		<key>Headers/NSBundle+AerisWeatherKit.h</key>
 		<data>
@@ -443,7 +451,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		K6xdA3Tk9Q+WcCRU62gaUMTjs9I=
+		Ba+e1SCyUuX35RjUFHKe8XGWhcU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -790,6 +798,20 @@
 			FiaDomjJtG8oL1bYzzLLemoMgdzALPqZHSBYHOAL3FI=
 			</data>
 		</dict>
+		<key>Headers/AWFMaritime.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			N359qhPzBbS0YvO5pkNRhG4vzcIXODxDCBu59lzczWM=
+			</data>
+		</dict>
+		<key>Headers/AWFMaritimeReport.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VB0cDxJGz4/qWOxEcZLujvP0qmBSGRZuPZsF6AzcOKE=
+			</data>
+		</dict>
 		<key>Headers/AWFMeasurement.h</key>
 		<dict>
 			<key>hash2</key>
@@ -871,7 +893,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+L3h/q2coSgbhwJbGU08mKJ8oLdVp5kXN/WGxxD+1wE=
+			SFVyKaXClreDns8pXNl2FhLwG7ImLWcML9EOQr0EdH8=
 			</data>
 		</dict>
 		<key>Headers/AWFPlaces.h</key>
@@ -1200,7 +1222,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EmM3oka+LCAcOHqzZf+LvnBDCIGpiHiBN9mrw59MlBk=
+			FKD1/9KMhpc791hBz3Uz1fmQQXnPhNB8HVr4kAW0GOA=
 			</data>
 		</dict>
 		<key>Headers/NSBundle+AerisWeatherKit.h</key>

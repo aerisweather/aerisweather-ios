@@ -194,6 +194,14 @@ typedef void (^AWFPlaceGeolocateCompletionBlock)(AWFPlace * _Nullable place, NSE
 //-----------------------------------------------------------------------------
 
 /**
+ Determines whether the receiver is equal to the specified place by comparing the `name` if present, otherwise the `zipcode` if present, otherwise the `icao` if present, otherwise the `coordinate`.
+ 
+ @param place The place to compare
+ @return `YES` if the receiver's `name`/`zipcode`/`icao`/`coodinate` is equal to the `place`, otherwise `NO`
+ */
+- (BOOL)isEqualToPlace:(nonnull AWFPlace *)place;
+
+/**
  Determines whether the receiver is equal to the specified place by comparing the place name.
  
  @param place The place to compare
