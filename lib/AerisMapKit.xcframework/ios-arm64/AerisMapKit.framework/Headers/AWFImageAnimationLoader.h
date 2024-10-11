@@ -28,7 +28,7 @@ NS_ASSUME_NONNULL_BEGIN
  @param sessionManager The URL session manager to use for making requests
  @return A loader instance initialized with the session manager
  */
-- (instancetype)initWithSessionManager:(AWFURLSessionManager *)sessionManager;
+- (instancetype)initWithSessionManager:(NSURLSession *)sessionManager;
 
 /**
  Starts requesting imagery using the specified array of URLs.
